@@ -1,0 +1,13 @@
+Feature,Importance
+num__TenureMonths,0.4378130785151944
+num__MonthlyCharges,0.2787653398026653
+cat__Contract_Month-to-month,0.03780592539251769
+cat__InternetService_Fiber,0.032978607103012876
+cat__InternetService_DSL,0.027832367650176517
+cat__PaymentMethod_Credit card,0.027267682319105663
+cat__PaymentMethod_Debit order,0.025913145915945065
+cat__PaymentMethod_EFT,0.024839105045584186
+cat__TechSupport_No,0.024433242059946174
+cat__TechSupport_Yes,0.023961309132734233
+cat__Contract_One year,0.02203418549062658
+cat__Contract_Two year,0.021255272550349303

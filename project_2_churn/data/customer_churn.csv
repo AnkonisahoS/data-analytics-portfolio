@@ -1,0 +1,1801 @@
+CustomerID,TenureMonths,MonthlyCharges,Contract,TechSupport,InternetService,PaymentMethod,Churn
+C00001,67,500.96,Two year,Yes,Fiber,Credit card,0
+C00002,2,541.86,One year,No,Fiber,Debit order,1
+C00003,38,602.56,One year,Yes,DSL,Credit card,0
+C00004,11,887.13,One year,No,None,Debit order,0
+C00005,32,893.04,Month-to-month,No,Fiber,Debit order,0
+C00006,3,854.98,Two year,No,Fiber,EFT,0
+C00007,11,799.22,Month-to-month,Yes,DSL,EFT,0
+C00008,30,794.31,Month-to-month,No,None,Credit card,0
+C00009,5,769.96,Month-to-month,No,DSL,Credit card,1
+C00010,58,793.37,One year,Yes,None,Debit order,0
+C00011,42,805.57,Month-to-month,Yes,DSL,Debit order,0
+C00012,33,467.2,Month-to-month,Yes,DSL,Credit card,0
+C00013,35,577.76,One year,No,DSL,Credit card,0
+C00014,61,534.79,Month-to-month,No,Fiber,Debit order,1
+C00015,61,919.29,Month-to-month,No,DSL,Debit order,0
+C00016,4,1017.74,Month-to-month,No,DSL,Debit order,1
+C00017,50,329.57,One year,No,Fiber,Debit order,0
+C00018,34,1001.67,Month-to-month,No,Fiber,Debit order,0
+C00019,57,735.61,Month-to-month,Yes,DSL,Debit order,0
+C00020,57,902.29,Month-to-month,Yes,DSL,Credit card,0
+C00021,51,811.16,Two year,Yes,Fiber,Debit order,0
+C00022,49,979.27,One year,No,None,Debit order,0
+C00023,16,757.75,Month-to-month,No,Fiber,Credit card,0
+C00024,62,474.58,Two year,No,Fiber,EFT,0
+C00025,51,700.98,Two year,No,Fiber,Debit order,0
+C00026,20,812.82,One year,No,Fiber,Debit order,0
+C00027,17,681.13,Month-to-month,No,Fiber,Credit card,0
+C00028,37,838.39,Month-to-month,No,DSL,Debit order,1
+C00029,25,708.17,One year,Yes,DSL,Debit order,0
+C00030,49,612.81,Month-to-month,Yes,DSL,Credit card,0
+C00031,30,524.52,Month-to-month,No,DSL,Debit order,0
+C00032,13,649.47,Month-to-month,No,None,EFT,0
+C00033,29,756.82,Month-to-month,No,Fiber,EFT,0
+C00034,59,367.31,One year,Yes,Fiber,Debit order,0
+C00035,60,579.59,Month-to-month,No,Fiber,Debit order,0
+C00036,23,360.6,One year,No,DSL,EFT,0
+C00037,58,608.93,One year,Yes,Fiber,Credit card,0
+C00038,7,935.52,Month-to-month,No,DSL,EFT,0
+C00039,71,506.5,Month-to-month,No,DSL,EFT,0
+C00040,56,846.57,Month-to-month,Yes,DSL,Debit order,0
+C00041,3,1232.79,Month-to-month,Yes,Fiber,Debit order,1
+C00042,51,981.64,One year,No,Fiber,Debit order,1
+C00043,36,744.03,One year,No,Fiber,EFT,1
+C00044,64,874.52,Two year,Yes,DSL,Debit order,0
+C00045,18,473.46,Two year,No,DSL,Credit card,0
+C00046,65,436.79,Month-to-month,No,DSL,Credit card,0
+C00047,63,725.17,One year,Yes,DSL,EFT,0
+C00048,21,791.75,Month-to-month,No,DSL,EFT,1
+C00049,32,916.99,Month-to-month,No,Fiber,Debit order,1
+C00050,47,617.62,Month-to-month,Yes,Fiber,Debit order,0
+C00051,18,754.81,Month-to-month,Yes,Fiber,Credit card,1
+C00052,72,748.64,One year,Yes,Fiber,EFT,0
+C00053,14,696.35,One year,No,Fiber,Credit card,0
+C00054,18,706.95,Month-to-month,No,DSL,Credit card,0
+C00055,37,566.15,Month-to-month,No,Fiber,EFT,0
+C00056,35,770.35,Month-to-month,No,Fiber,Debit order,0
+C00057,4,755.11,One year,No,Fiber,Debit order,0
+C00058,66,640.8,Month-to-month,No,Fiber,EFT,0
+C00059,18,839.84,Month-to-month,No,Fiber,Credit card,0
+C00060,8,905.01,Month-to-month,No,Fiber,EFT,1
+C00061,38,841.93,One year,No,Fiber,Debit order,0
+C00062,67,532.36,One year,No,None,Credit card,0
+C00063,1,737.94,Month-to-month,No,Fiber,Debit order,0
+C00064,36,555.94,Month-to-month,No,Fiber,Debit order,1
+C00065,66,737.38,Month-to-month,No,Fiber,Debit order,0
+C00066,65,556.64,One year,No,Fiber,Credit card,0
+C00067,13,949.89,Month-to-month,Yes,DSL,Debit order,0
+C00068,45,861.0,One year,Yes,Fiber,Debit order,0
+C00069,61,927.54,Two year,No,DSL,Debit order,0
+C00070,49,909.31,Month-to-month,No,None,Debit order,0
+C00071,48,671.29,Month-to-month,Yes,DSL,Credit card,0
+C00072,56,643.39,Month-to-month,No,Fiber,Credit card,0
+C00073,33,1033.51,Month-to-month,No,Fiber,Credit card,1
+C00074,5,690.28,Two year,Yes,Fiber,Debit order,0
+C00075,47,476.18,Two year,No,DSL,Credit card,0
+C00076,46,901.34,Month-to-month,Yes,Fiber,Debit order,0
+C00077,62,745.88,Two year,No,DSL,Credit card,0
+C00078,67,991.07,Month-to-month,Yes,Fiber,EFT,0
+C00079,25,763.73,Month-to-month,No,Fiber,Credit card,1
+C00080,69,716.4,One year,No,Fiber,EFT,0
+C00081,1,994.7,Month-to-month,Yes,Fiber,Debit order,1
+C00082,70,443.08,Month-to-month,No,DSL,Credit card,0
+C00083,10,614.63,One year,No,DSL,Credit card,0
+C00084,47,560.27,Month-to-month,No,Fiber,Credit card,0
+C00085,50,324.89,Two year,Yes,Fiber,Credit card,0
+C00086,46,877.17,Month-to-month,No,DSL,Debit order,0
+C00087,72,619.66,Month-to-month,Yes,Fiber,Credit card,0
+C00088,40,882.97,Two year,No,DSL,Credit card,0
+C00089,10,790.04,Month-to-month,No,Fiber,Credit card,0
+C00090,44,829.29,Month-to-month,No,DSL,Debit order,0
+C00091,21,638.03,Month-to-month,Yes,DSL,Debit order,0
+C00092,45,582.44,Month-to-month,Yes,Fiber,EFT,0
+C00093,28,736.16,Month-to-month,Yes,DSL,Debit order,0
+C00094,4,885.45,Month-to-month,No,DSL,Debit order,0
+C00095,46,710.93,Month-to-month,No,Fiber,Debit order,0
+C00096,7,593.65,Month-to-month,No,DSL,Credit card,1
+C00097,24,504.18,Two year,Yes,Fiber,Credit card,0
+C00098,45,756.75,Two year,Yes,Fiber,EFT,0
+C00099,64,620.27,Month-to-month,No,DSL,Credit card,0
+C00100,23,707.09,Two year,No,DSL,Debit order,0
+C00101,22,677.02,Two year,No,Fiber,Debit order,0
+C00102,22,640.0,Two year,Yes,DSL,Debit order,0
+C00103,42,772.88,One year,Yes,Fiber,Credit card,0
+C00104,14,819.81,Month-to-month,No,DSL,EFT,0
+C00105,38,1073.75,Month-to-month,No,Fiber,Debit order,1
+C00106,58,856.43,Two year,No,DSL,Debit order,0
+C00107,6,1006.86,Month-to-month,Yes,Fiber,Credit card,1
+C00108,70,572.65,Two year,Yes,Fiber,Credit card,0
+C00109,39,431.83,One year,No,DSL,Credit card,1
+C00110,46,717.4,Month-to-month,Yes,Fiber,Credit card,0
+C00111,45,874.44,Month-to-month,No,Fiber,Debit order,0
+C00112,69,846.21,Two year,Yes,Fiber,Credit card,0
+C00113,48,938.05,Month-to-month,Yes,DSL,Debit order,0
+C00114,64,263.42,One year,Yes,Fiber,Credit card,0
+C00115,21,945.54,Two year,No,DSL,Debit order,0
+C00116,16,780.38,Month-to-month,Yes,Fiber,Credit card,1
+C00117,47,442.08,Month-to-month,Yes,DSL,EFT,0
+C00118,12,850.24,Month-to-month,No,None,Credit card,0
+C00119,9,750.51,Two year,Yes,Fiber,Debit order,0
+C00120,16,788.62,Month-to-month,Yes,DSL,EFT,0
+C00121,20,899.84,Month-to-month,Yes,Fiber,Debit order,0
+C00122,7,797.45,Month-to-month,No,Fiber,EFT,1
+C00123,53,454.89,Month-to-month,No,DSL,Debit order,0
+C00124,42,694.26,Month-to-month,No,DSL,EFT,0
+C00125,15,428.82,Month-to-month,No,DSL,Debit order,0
+C00126,21,836.83,Two year,No,None,Debit order,1
+C00127,67,971.63,Month-to-month,Yes,Fiber,EFT,0
+C00128,66,496.54,One year,No,DSL,Credit card,0
+C00129,9,599.14,Two year,No,Fiber,Debit order,0
+C00130,45,561.17,One year,No,None,Debit order,0
+C00131,24,638.3,One year,Yes,DSL,Debit order,0
+C00132,26,794.24,Month-to-month,No,Fiber,Debit order,0
+C00133,44,640.25,Month-to-month,No,DSL,Credit card,0
+C00134,71,837.46,Month-to-month,No,DSL,Credit card,0
+C00135,42,911.77,Month-to-month,Yes,None,EFT,0
+C00136,69,918.32,One year,No,DSL,EFT,0
+C00137,60,518.73,Month-to-month,No,DSL,EFT,0
+C00138,57,969.47,Month-to-month,No,DSL,Credit card,0
+C00139,57,983.89,One year,No,DSL,Debit order,0
+C00140,58,999.48,Month-to-month,No,DSL,Credit card,0
+C00141,19,691.59,Month-to-month,No,Fiber,Debit order,1
+C00142,71,584.67,Month-to-month,Yes,Fiber,Debit order,0
+C00143,67,542.84,Month-to-month,No,None,EFT,0
+C00144,44,521.68,Month-to-month,No,None,Credit card,0
+C00145,52,722.1,Month-to-month,Yes,None,Debit order,0
+C00146,64,872.61,Month-to-month,No,Fiber,Debit order,0
+C00147,11,955.18,One year,No,Fiber,Debit order,1
+C00148,5,632.6,Two year,No,None,Credit card,0
+C00149,72,713.04,One year,No,Fiber,Debit order,0
+C00150,40,701.25,Month-to-month,No,Fiber,EFT,0
+C00151,52,605.65,One year,Yes,Fiber,Credit card,1
+C00152,37,852.43,Two year,No,DSL,Debit order,0
+C00153,38,785.31,Two year,No,DSL,Credit card,0
+C00154,3,745.53,Month-to-month,No,Fiber,EFT,0
+C00155,21,784.49,Month-to-month,Yes,DSL,EFT,0
+C00156,7,830.78,Month-to-month,Yes,Fiber,Credit card,1
+C00157,32,828.98,One year,No,DSL,Debit order,0
+C00158,2,569.07,Month-to-month,No,DSL,Credit card,0
+C00159,58,881.34,Two year,No,DSL,EFT,0
+C00160,22,765.97,Month-to-month,No,Fiber,EFT,0
+C00161,54,641.77,One year,No,Fiber,Credit card,0
+C00162,4,762.16,Month-to-month,No,Fiber,Credit card,1
+C00163,3,782.01,Month-to-month,No,None,Debit order,0
+C00164,31,914.72,Month-to-month,No,Fiber,Debit order,0
+C00165,57,531.69,One year,Yes,Fiber,Debit order,0
+C00166,59,958.5,Month-to-month,Yes,Fiber,Debit order,0
+C00167,40,724.17,Month-to-month,No,None,Credit card,0
+C00168,45,628.89,One year,Yes,DSL,Debit order,0
+C00169,50,623.38,Two year,No,Fiber,Credit card,0
+C00170,49,539.75,One year,Yes,DSL,Credit card,0
+C00171,54,406.64,One year,No,Fiber,Debit order,0
+C00172,3,841.93,Month-to-month,Yes,DSL,Credit card,1
+C00173,31,1076.56,Two year,No,None,Debit order,0
+C00174,61,428.83,Month-to-month,No,DSL,Debit order,0
+C00175,32,548.92,Two year,Yes,DSL,EFT,0
+C00176,11,855.28,One year,No,DSL,Debit order,0
+C00177,48,711.79,Month-to-month,No,Fiber,Debit order,0
+C00178,22,870.2,Month-to-month,No,DSL,Credit card,1
+C00179,37,701.69,One year,No,DSL,Debit order,0
+C00180,38,615.49,One year,No,Fiber,Debit order,0
+C00181,51,679.35,One year,No,DSL,Credit card,0
+C00182,67,291.22,Two year,No,Fiber,Credit card,0
+C00183,50,514.17,Month-to-month,No,Fiber,Credit card,0
+C00184,72,890.69,Month-to-month,No,DSL,EFT,0
+C00185,2,934.54,Month-to-month,No,Fiber,Debit order,1
+C00186,57,973.11,Month-to-month,No,DSL,Credit card,0
+C00187,31,799.36,Month-to-month,No,Fiber,Debit order,1
+C00188,53,313.91,Two year,No,DSL,Debit order,0
+C00189,7,605.7,Month-to-month,Yes,None,EFT,0
+C00190,38,958.44,Two year,No,DSL,Credit card,0
+C00191,3,1012.15,One year,No,DSL,Debit order,0
+C00192,48,965.28,Month-to-month,No,Fiber,Debit order,0
+C00193,16,677.47,Two year,No,Fiber,Debit order,0
+C00194,11,484.82,One year,No,DSL,Credit card,0
+C00195,6,712.69,Month-to-month,Yes,DSL,Debit order,0
+C00196,20,722.67,Month-to-month,No,DSL,EFT,0
+C00197,70,1001.8,Month-to-month,No,DSL,Debit order,0
+C00198,71,761.0,One year,No,Fiber,Debit order,0
+C00199,6,723.0,Month-to-month,Yes,Fiber,EFT,1
+C00200,71,733.23,Month-to-month,No,None,EFT,0
+C00201,43,791.97,Two year,Yes,DSL,Debit order,0
+C00202,24,832.76,One year,No,DSL,Credit card,0
+C00203,68,589.58,One year,No,DSL,EFT,0
+C00204,18,529.63,Two year,Yes,None,Credit card,0
+C00205,14,966.7,Month-to-month,No,DSL,Credit card,0
+C00206,17,424.61,Month-to-month,No,Fiber,Credit card,0
+C00207,11,1014.79,One year,No,DSL,EFT,1
+C00208,35,376.08,Month-to-month,No,Fiber,Credit card,0
+C00209,11,614.78,Month-to-month,No,Fiber,Debit order,0
+C00210,17,894.93,One year,No,DSL,Credit card,0
+C00211,27,720.06,Month-to-month,No,Fiber,Credit card,0
+C00212,47,483.03,Month-to-month,Yes,Fiber,Credit card,0
+C00213,62,796.76,Month-to-month,Yes,DSL,Debit order,0
+C00214,6,732.06,One year,Yes,None,Credit card,0
+C00215,46,681.11,Month-to-month,Yes,Fiber,Credit card,0
+C00216,8,607.69,Month-to-month,No,DSL,EFT,0
+C00217,72,713.77,Two year,Yes,DSL,Debit order,0
+C00218,20,615.25,Two year,No,Fiber,Credit card,0
+C00219,62,1158.22,Month-to-month,Yes,DSL,Credit card,0
+C00220,56,676.8,Month-to-month,No,DSL,Debit order,0
+C00221,24,652.72,One year,No,DSL,Credit card,0
+C00222,24,622.51,Month-to-month,Yes,DSL,Debit order,0
+C00223,23,1039.85,Month-to-month,No,None,EFT,0
+C00224,34,424.97,Month-to-month,No,DSL,Credit card,0
+C00225,32,784.7,Month-to-month,No,Fiber,Debit order,0
+C00226,48,676.93,Month-to-month,No,DSL,Credit card,0
+C00227,34,463.79,Month-to-month,No,DSL,EFT,0
+C00228,57,572.57,Two year,Yes,Fiber,Debit order,0
+C00229,34,777.05,Month-to-month,No,DSL,EFT,0
+C00230,23,564.41,Month-to-month,Yes,DSL,Debit order,0
+C00231,24,766.72,Month-to-month,No,Fiber,Debit order,1
+C00232,53,1031.25,Two year,No,Fiber,Credit card,0
+C00233,11,750.71,Month-to-month,No,DSL,Debit order,0
+C00234,21,458.37,Month-to-month,No,Fiber,EFT,1
+C00235,23,567.58,One year,No,DSL,Credit card,0
+C00236,47,668.63,One year,No,Fiber,Credit card,0
+C00237,10,656.6,One year,No,DSL,Credit card,0
+C00238,33,747.36,Month-to-month,Yes,DSL,Credit card,1
+C00239,49,776.24,Month-to-month,Yes,Fiber,Credit card,0
+C00240,67,1031.5,Month-to-month,No,DSL,Credit card,0
+C00241,32,719.33,Month-to-month,No,Fiber,EFT,0
+C00242,71,512.6,Month-to-month,Yes,Fiber,Credit card,1
+C00243,44,927.69,Month-to-month,No,DSL,Debit order,1
+C00244,56,947.34,Month-to-month,Yes,Fiber,Credit card,0
+C00245,18,761.84,Two year,No,DSL,Debit order,0
+C00246,66,675.65,Month-to-month,No,DSL,Debit order,0
+C00247,19,832.06,Month-to-month,Yes,Fiber,Debit order,1
+C00248,10,682.01,Two year,Yes,Fiber,Debit order,0
+C00249,6,349.97,One year,Yes,DSL,Debit order,0
+C00250,48,821.43,Month-to-month,No,Fiber,EFT,0
+C00251,46,880.61,One year,No,DSL,EFT,0
+C00252,15,979.4,Month-to-month,Yes,Fiber,Debit order,0
+C00253,64,588.46,One year,No,None,EFT,0
+C00254,20,760.71,Month-to-month,No,Fiber,EFT,0
+C00255,44,764.6,Two year,No,Fiber,EFT,0
+C00256,38,735.37,Month-to-month,Yes,DSL,Debit order,0
+C00257,43,740.67,One year,Yes,Fiber,Debit order,0
+C00258,54,726.68,Month-to-month,No,DSL,Credit card,0
+C00259,67,758.11,Month-to-month,No,Fiber,Credit card,0
+C00260,52,853.32,Month-to-month,No,Fiber,Credit card,0
+C00261,66,939.65,One year,No,Fiber,Credit card,0
+C00262,63,583.86,Month-to-month,Yes,DSL,EFT,0
+C00263,26,688.99,Two year,Yes,DSL,EFT,0
+C00264,41,643.93,Month-to-month,Yes,Fiber,Credit card,0
+C00265,15,618.18,One year,No,DSL,EFT,0
+C00266,67,429.11,One year,Yes,DSL,EFT,0
+C00267,70,724.36,Month-to-month,Yes,Fiber,Debit order,0
+C00268,64,806.28,One year,Yes,Fiber,EFT,0
+C00269,54,692.08,One year,Yes,Fiber,Debit order,0
+C00270,62,718.39,One year,No,Fiber,Debit order,0
+C00271,58,795.32,Month-to-month,No,DSL,EFT,0
+C00272,17,974.0,One year,No,DSL,Debit order,1
+C00273,19,644.44,Month-to-month,No,Fiber,Credit card,0
+C00274,39,509.11,Month-to-month,No,DSL,EFT,0
+C00275,31,703.72,Month-to-month,No,Fiber,Debit order,0
+C00276,54,1059.04,One year,Yes,DSL,Debit order,0
+C00277,53,511.04,Two year,Yes,DSL,Debit order,0
+C00278,71,837.02,Month-to-month,No,Fiber,Credit card,0
+C00279,57,928.42,Month-to-month,No,DSL,Debit order,0
+C00280,1,294.2,Month-to-month,No,Fiber,Debit order,0
+C00281,25,793.84,Month-to-month,Yes,None,EFT,0
+C00282,24,828.61,One year,Yes,Fiber,Debit order,0
+C00283,46,671.88,One year,Yes,DSL,Credit card,0
+C00284,25,603.64,One year,No,None,Debit order,0
+C00285,71,613.68,One year,No,DSL,Credit card,0
+C00286,21,660.86,Month-to-month,Yes,DSL,Credit card,0
+C00287,32,665.62,Month-to-month,Yes,DSL,Debit order,0
+C00288,59,631.66,Month-to-month,Yes,Fiber,Debit order,0
+C00289,27,657.99,Two year,Yes,None,Debit order,1
+C00290,4,934.34,One year,No,Fiber,Debit order,1
+C00291,24,501.4,Month-to-month,No,DSL,Debit order,0
+C00292,26,405.17,Month-to-month,No,DSL,Credit card,0
+C00293,45,937.22,Month-to-month,No,Fiber,Debit order,0
+C00294,52,685.44,Two year,No,Fiber,Debit order,0
+C00295,40,650.12,Month-to-month,No,Fiber,Debit order,0
+C00296,30,699.98,Month-to-month,No,Fiber,EFT,1
+C00297,37,757.67,Month-to-month,No,DSL,Debit order,1
+C00298,11,625.67,One year,Yes,Fiber,Credit card,0
+C00299,14,811.07,One year,Yes,None,Credit card,0
+C00300,44,546.79,Month-to-month,Yes,Fiber,Debit order,0
+C00301,63,665.67,One year,No,Fiber,Debit order,0
+C00302,38,321.35,Month-to-month,No,Fiber,Debit order,0
+C00303,5,931.0,One year,Yes,Fiber,Credit card,0
+C00304,71,688.3,Month-to-month,No,DSL,Debit order,0
+C00305,24,840.62,One year,No,Fiber,Debit order,0
+C00306,54,805.78,Month-to-month,No,DSL,EFT,0
+C00307,65,818.97,One year,No,DSL,Credit card,0
+C00308,72,718.6,Month-to-month,Yes,Fiber,Debit order,0
+C00309,9,789.88,Month-to-month,No,Fiber,EFT,1
+C00310,14,546.97,Month-to-month,Yes,Fiber,Debit order,0
+C00311,47,509.19,Month-to-month,No,Fiber,Debit order,0
+C00312,55,701.8,One year,Yes,DSL,Debit order,0
+C00313,61,597.64,Month-to-month,Yes,Fiber,EFT,0
+C00314,40,976.58,Month-to-month,No,Fiber,Debit order,0
+C00315,12,787.53,One year,No,DSL,EFT,0
+C00316,52,591.03,Month-to-month,No,Fiber,Credit card,0
+C00317,49,671.12,Two year,No,None,Credit card,0
+C00318,34,743.94,Month-to-month,Yes,DSL,Debit order,0
+C00319,46,707.76,Two year,No,DSL,Debit order,0
+C00320,16,768.91,Two year,Yes,DSL,Credit card,0
+C00321,59,732.36,Month-to-month,Yes,Fiber,Debit order,0
+C00322,4,469.68,Month-to-month,No,Fiber,Credit card,0
+C00323,61,332.84,One year,No,DSL,Debit order,0
+C00324,61,652.75,One year,No,Fiber,EFT,0
+C00325,50,820.89,Month-to-month,No,Fiber,Credit card,0
+C00326,59,654.77,Month-to-month,No,DSL,Credit card,0
+C00327,66,942.58,Month-to-month,No,DSL,Credit card,0
+C00328,12,711.56,One year,Yes,DSL,Debit order,0
+C00329,40,964.3,One year,No,Fiber,Debit order,0
+C00330,47,927.34,Month-to-month,No,None,Debit order,0
+C00331,68,909.23,Month-to-month,No,Fiber,Credit card,0
+C00332,54,503.37,One year,No,None,Debit order,0
+C00333,43,723.09,Two year,No,Fiber,Debit order,0
+C00334,41,940.1,Month-to-month,No,None,Debit order,0
+C00335,11,769.02,Month-to-month,No,None,Debit order,1
+C00336,23,819.78,Month-to-month,No,Fiber,Credit card,0
+C00337,32,470.18,One year,No,DSL,Credit card,0
+C00338,64,1065.38,Month-to-month,No,Fiber,Debit order,0
+C00339,63,577.55,Month-to-month,No,Fiber,Debit order,0
+C00340,47,361.0,One year,Yes,Fiber,Credit card,0
+C00341,8,656.8,Month-to-month,No,DSL,Credit card,0
+C00342,52,279.45,Month-to-month,No,Fiber,EFT,0
+C00343,34,524.68,Month-to-month,Yes,DSL,EFT,0
+C00344,47,1180.53,Month-to-month,Yes,None,EFT,0
+C00345,32,651.59,Month-to-month,No,DSL,EFT,0
+C00346,52,463.0,Month-to-month,Yes,Fiber,EFT,0
+C00347,16,724.55,Month-to-month,No,DSL,Credit card,0
+C00348,11,558.4,Month-to-month,Yes,Fiber,Credit card,0
+C00349,16,875.61,Two year,Yes,Fiber,Credit card,0
+C00350,67,559.88,Two year,Yes,None,Debit order,0
+C00351,6,768.73,Month-to-month,No,None,Debit order,0
+C00352,21,513.53,One year,No,Fiber,EFT,0
+C00353,25,1187.83,Month-to-month,No,Fiber,Credit card,0
+C00354,61,810.65,One year,No,Fiber,Debit order,0
+C00355,26,693.81,Two year,No,Fiber,Debit order,0
+C00356,65,667.27,One year,Yes,Fiber,Debit order,0
+C00357,72,620.35,One year,Yes,Fiber,Debit order,0
+C00358,47,583.04,Month-to-month,No,Fiber,Credit card,0
+C00359,25,578.09,Month-to-month,Yes,Fiber,Credit card,0
+C00360,44,1022.1,Month-to-month,No,DSL,Credit card,1
+C00361,49,620.53,Month-to-month,No,DSL,Debit order,0
+C00362,8,336.7,One year,No,DSL,Debit order,0
+C00363,60,510.13,Month-to-month,No,Fiber,Debit order,1
+C00364,32,886.99,Month-to-month,No,DSL,Debit order,0
+C00365,61,674.58,One year,No,Fiber,Credit card,0
+C00366,45,695.87,One year,No,DSL,Debit order,0
+C00367,62,930.57,One year,No,Fiber,EFT,0
+C00368,6,580.11,Month-to-month,No,None,Credit card,0
+C00369,4,833.84,Two year,No,Fiber,Debit order,0
+C00370,9,599.78,Month-to-month,No,DSL,Debit order,1
+C00371,63,823.66,One year,No,Fiber,Debit order,0
+C00372,72,649.6,Month-to-month,No,DSL,Debit order,0
+C00373,72,676.52,Month-to-month,Yes,DSL,EFT,0
+C00374,24,867.62,Two year,No,Fiber,Credit card,0
+C00375,20,854.64,Month-to-month,No,DSL,EFT,0
+C00376,26,690.22,Month-to-month,No,Fiber,Credit card,0
+C00377,59,635.11,Month-to-month,Yes,DSL,EFT,0
+C00378,19,1007.85,Two year,No,Fiber,EFT,0
+C00379,40,826.08,Two year,No,DSL,Debit order,0
+C00380,47,649.59,Month-to-month,No,DSL,Debit order,0
+C00381,27,602.44,Month-to-month,Yes,Fiber,Debit order,0
+C00382,35,904.48,Month-to-month,Yes,DSL,Debit order,0
+C00383,48,740.77,One year,Yes,None,Credit card,0
+C00384,57,690.56,Month-to-month,Yes,DSL,Debit order,0
+C00385,14,740.7,Month-to-month,No,Fiber,EFT,1
+C00386,37,780.8,Month-to-month,No,Fiber,Debit order,1
+C00387,12,709.8,Two year,No,Fiber,EFT,1
+C00388,2,936.66,Month-to-month,No,Fiber,Debit order,1
+C00389,47,946.68,Month-to-month,No,Fiber,Debit order,0
+C00390,35,815.74,Two year,Yes,DSL,EFT,0
+C00391,19,967.45,Month-to-month,No,DSL,Debit order,0
+C00392,4,721.53,Month-to-month,No,DSL,Credit card,0
+C00393,69,844.26,Month-to-month,No,Fiber,EFT,0
+C00394,60,900.8,Month-to-month,No,Fiber,Debit order,0
+C00395,68,903.43,Month-to-month,No,DSL,Debit order,0
+C00396,9,884.88,Month-to-month,No,DSL,Debit order,0
+C00397,2,833.61,Month-to-month,No,None,Debit order,0
+C00398,16,1072.28,Month-to-month,No,DSL,EFT,1
+C00399,8,622.85,Two year,No,Fiber,EFT,0
+C00400,34,692.06,Month-to-month,Yes,DSL,Debit order,0
+C00401,47,681.39,One year,No,DSL,Credit card,0
+C00402,15,653.75,Month-to-month,No,Fiber,EFT,0
+C00403,29,362.02,Month-to-month,No,DSL,Debit order,1
+C00404,39,967.48,Month-to-month,Yes,Fiber,Debit order,0
+C00405,23,535.31,Month-to-month,No,Fiber,EFT,1
+C00406,34,750.57,One year,No,Fiber,Credit card,0
+C00407,43,464.06,Month-to-month,Yes,DSL,Debit order,0
+C00408,69,831.73,One year,No,DSL,Credit card,0
+C00409,23,578.63,Two year,No,Fiber,Debit order,0
+C00410,7,515.53,Month-to-month,Yes,DSL,Credit card,0
+C00411,63,754.98,Two year,Yes,DSL,Credit card,0
+C00412,42,593.87,Month-to-month,No,Fiber,Debit order,1
+C00413,34,616.65,Month-to-month,No,Fiber,EFT,0
+C00414,52,750.92,Month-to-month,No,Fiber,Credit card,0
+C00415,71,864.0,One year,No,Fiber,Credit card,0
+C00416,10,572.69,One year,No,None,Credit card,0
+C00417,62,541.59,Two year,No,DSL,Credit card,0
+C00418,46,724.23,One year,Yes,Fiber,Debit order,0
+C00419,43,817.07,Month-to-month,No,DSL,Debit order,0
+C00420,63,983.3,Two year,No,Fiber,Credit card,0
+C00421,22,527.16,Two year,No,Fiber,Credit card,0
+C00422,57,662.77,One year,No,Fiber,Debit order,0
+C00423,42,931.64,Month-to-month,Yes,Fiber,EFT,0
+C00424,68,1075.16,One year,No,Fiber,EFT,0
+C00425,34,541.24,Month-to-month,No,Fiber,Debit order,1
+C00426,52,587.01,Two year,Yes,Fiber,Debit order,0
+C00427,36,788.6,Two year,No,Fiber,Credit card,0
+C00428,29,616.01,One year,No,DSL,Debit order,0
+C00429,28,583.34,Month-to-month,No,Fiber,EFT,0
+C00430,67,764.0,Month-to-month,No,Fiber,Credit card,0
+C00431,61,998.9,Two year,Yes,Fiber,Debit order,0
+C00432,17,484.29,Two year,Yes,None,Debit order,0
+C00433,63,989.7,One year,Yes,Fiber,Debit order,0
+C00434,43,616.54,Two year,Yes,DSL,Credit card,0
+C00435,8,782.24,Month-to-month,Yes,Fiber,Debit order,0
+C00436,56,1006.35,Two year,No,Fiber,EFT,0
+C00437,12,778.56,Month-to-month,Yes,DSL,Credit card,0
+C00438,63,666.45,Month-to-month,No,DSL,EFT,0
+C00439,33,849.27,Month-to-month,Yes,None,Debit order,0
+C00440,66,688.83,Month-to-month,Yes,Fiber,Debit order,0
+C00441,35,813.84,Month-to-month,No,Fiber,EFT,1
+C00442,7,683.16,One year,No,DSL,Debit order,0
+C00443,56,875.01,Month-to-month,No,Fiber,Debit order,0
+C00444,53,469.04,One year,Yes,DSL,EFT,0
+C00445,22,537.57,Month-to-month,No,DSL,EFT,0
+C00446,15,466.39,Two year,Yes,Fiber,EFT,0
+C00447,63,709.84,Month-to-month,No,DSL,Debit order,0
+C00448,57,444.68,One year,No,Fiber,Credit card,0
+C00449,22,595.47,One year,No,Fiber,Credit card,0
+C00450,51,520.65,Month-to-month,No,None,Credit card,0
+C00451,18,986.34,Month-to-month,No,Fiber,Debit order,0
+C00452,14,541.68,Month-to-month,Yes,Fiber,EFT,0
+C00453,48,488.42,Month-to-month,Yes,DSL,Debit order,0
+C00454,60,764.7,Month-to-month,No,Fiber,Credit card,0
+C00455,67,1023.63,Month-to-month,No,Fiber,EFT,0
+C00456,34,699.11,One year,Yes,Fiber,EFT,0
+C00457,11,713.03,Month-to-month,Yes,Fiber,Debit order,0
+C00458,40,952.34,Month-to-month,No,Fiber,Credit card,0
+C00459,50,878.08,Month-to-month,Yes,DSL,Credit card,0
+C00460,70,796.57,Month-to-month,No,Fiber,Debit order,0
+C00461,9,615.18,Month-to-month,No,None,Debit order,0
+C00462,48,802.07,One year,Yes,Fiber,Credit card,0
+C00463,37,475.06,One year,No,Fiber,EFT,0
+C00464,43,607.74,Month-to-month,No,None,EFT,0
+C00465,7,977.66,Month-to-month,No,DSL,Debit order,1
+C00466,2,954.36,Month-to-month,Yes,Fiber,Debit order,0
+C00467,44,798.75,One year,Yes,Fiber,Debit order,1
+C00468,15,372.72,Month-to-month,No,DSL,EFT,1
+C00469,45,502.52,Two year,No,Fiber,EFT,0
+C00470,2,597.69,One year,No,Fiber,EFT,0
+C00471,58,689.09,One year,Yes,DSL,Credit card,0
+C00472,24,494.93,Month-to-month,No,DSL,Debit order,0
+C00473,33,675.66,Two year,No,DSL,Credit card,0
+C00474,25,1038.11,Month-to-month,Yes,Fiber,Debit order,1
+C00475,31,792.15,Month-to-month,No,None,Debit order,0
+C00476,39,759.39,Two year,No,Fiber,Debit order,0
+C00477,47,536.84,One year,Yes,DSL,Debit order,0
+C00478,50,424.98,Month-to-month,No,Fiber,Debit order,0
+C00479,72,498.92,Month-to-month,No,DSL,EFT,0
+C00480,13,417.71,Month-to-month,No,DSL,Credit card,1
+C00481,63,733.51,One year,Yes,Fiber,EFT,0
+C00482,44,789.1,Month-to-month,No,DSL,Debit order,0
+C00483,23,546.25,Month-to-month,No,DSL,Credit card,0
+C00484,67,746.63,Month-to-month,No,Fiber,Debit order,0
+C00485,51,984.42,Two year,Yes,Fiber,Debit order,0
+C00486,14,1072.39,Month-to-month,Yes,Fiber,Debit order,1
+C00487,13,858.67,Month-to-month,No,DSL,Debit order,0
+C00488,48,688.53,Two year,No,DSL,EFT,0
+C00489,53,852.86,Month-to-month,Yes,Fiber,EFT,0
+C00490,4,963.33,One year,No,Fiber,Debit order,1
+C00491,46,358.7,One year,Yes,DSL,Credit card,0
+C00492,39,986.77,Month-to-month,No,Fiber,Debit order,0
+C00493,70,621.97,One year,No,Fiber,Debit order,0
+C00494,54,623.71,Two year,Yes,Fiber,Credit card,0
+C00495,66,656.11,Month-to-month,No,DSL,EFT,0
+C00496,3,777.62,Month-to-month,No,None,EFT,1
+C00497,56,519.97,One year,No,DSL,Debit order,0
+C00498,25,668.73,Month-to-month,No,Fiber,Credit card,1
+C00499,40,814.55,Month-to-month,No,DSL,Debit order,0
+C00500,64,759.34,Month-to-month,No,Fiber,Debit order,0
+C00501,63,788.55,Two year,Yes,None,Debit order,0
+C00502,17,661.69,One year,No,Fiber,Debit order,0
+C00503,18,844.87,Two year,Yes,None,Debit order,0
+C00504,53,910.15,Month-to-month,Yes,DSL,Debit order,0
+C00505,64,899.36,Two year,No,DSL,Credit card,0
+C00506,45,796.97,Month-to-month,No,Fiber,Debit order,0
+C00507,4,889.0,One year,Yes,DSL,Debit order,0
+C00508,12,876.79,One year,Yes,DSL,EFT,0
+C00509,54,1201.77,Month-to-month,Yes,Fiber,EFT,0
+C00510,54,939.25,Month-to-month,Yes,Fiber,Debit order,0
+C00511,65,704.03,Month-to-month,No,DSL,Debit order,0
+C00512,39,555.9,Month-to-month,No,None,Debit order,0
+C00513,31,672.99,One year,Yes,DSL,EFT,0
+C00514,9,660.28,Month-to-month,No,Fiber,Debit order,0
+C00515,57,812.06,One year,Yes,DSL,Debit order,0
+C00516,69,593.95,Month-to-month,No,Fiber,Credit card,0
+C00517,4,934.59,Month-to-month,No,Fiber,Credit card,1
+C00518,36,469.88,One year,No,DSL,Debit order,0
+C00519,26,426.15,Month-to-month,Yes,DSL,Debit order,0
+C00520,54,695.68,Two year,No,DSL,Debit order,0
+C00521,55,568.34,Two year,No,DSL,Debit order,0
+C00522,16,493.52,Month-to-month,No,Fiber,Debit order,0
+C00523,69,605.33,Month-to-month,Yes,DSL,EFT,1
+C00524,10,582.93,Month-to-month,No,Fiber,EFT,0
+C00525,57,721.82,One year,No,None,Credit card,0
+C00526,54,608.32,Month-to-month,No,None,Credit card,0
+C00527,12,622.96,Two year,No,DSL,Credit card,1
+C00528,49,719.12,Two year,No,DSL,Debit order,0
+C00529,20,902.56,Month-to-month,No,DSL,Credit card,0
+C00530,20,984.73,One year,Yes,Fiber,Debit order,0
+C00531,7,746.6,Month-to-month,Yes,DSL,Debit order,0
+C00532,54,760.6,Month-to-month,No,Fiber,Debit order,0
+C00533,59,687.03,Month-to-month,Yes,DSL,Credit card,0
+C00534,37,806.62,One year,No,Fiber,Credit card,0
+C00535,56,790.24,Month-to-month,No,DSL,Credit card,0
+C00536,26,958.65,Two year,No,DSL,Credit card,0
+C00537,41,380.03,Month-to-month,Yes,DSL,EFT,0
+C00538,57,677.79,One year,No,Fiber,Debit order,0
+C00539,32,781.05,Two year,No,DSL,Debit order,0
+C00540,45,715.27,One year,No,None,EFT,0
+C00541,11,550.95,Month-to-month,No,Fiber,Credit card,1
+C00542,37,486.11,Month-to-month,Yes,Fiber,Debit order,0
+C00543,62,865.14,Month-to-month,No,Fiber,Debit order,0
+C00544,56,583.75,Month-to-month,Yes,DSL,EFT,0
+C00545,22,404.12,Two year,No,DSL,Debit order,0
+C00546,40,874.18,Month-to-month,Yes,DSL,EFT,0
+C00547,45,802.62,Month-to-month,Yes,Fiber,EFT,0
+C00548,68,699.14,One year,Yes,Fiber,EFT,0
+C00549,60,555.38,Month-to-month,Yes,DSL,Debit order,0
+C00550,59,699.58,Two year,No,DSL,Credit card,0
+C00551,55,938.81,Month-to-month,No,Fiber,Debit order,0
+C00552,26,429.35,Month-to-month,Yes,Fiber,Debit order,0
+C00553,28,438.48,One year,Yes,Fiber,Debit order,0
+C00554,34,607.0,Month-to-month,No,DSL,Debit order,0
+C00555,31,715.2,Two year,Yes,DSL,Debit order,0
+C00556,69,630.67,Month-to-month,No,DSL,Credit card,0
+C00557,64,835.71,Month-to-month,Yes,DSL,Debit order,0
+C00558,65,915.99,Month-to-month,No,DSL,Debit order,0
+C00559,44,770.18,Month-to-month,No,Fiber,Debit order,0
+C00560,14,820.88,One year,Yes,Fiber,Credit card,1
+C00561,11,768.98,Month-to-month,No,Fiber,Debit order,1
+C00562,20,721.71,Month-to-month,No,None,Credit card,0
+C00563,47,487.16,Two year,No,DSL,Debit order,0
+C00564,27,534.96,Month-to-month,No,DSL,Credit card,0
+C00565,48,476.83,One year,No,DSL,EFT,0
+C00566,64,693.27,Month-to-month,No,Fiber,Credit card,0
+C00567,25,761.81,One year,No,Fiber,Credit card,0
+C00568,67,459.13,Month-to-month,Yes,DSL,EFT,0
+C00569,37,733.07,Month-to-month,No,None,Debit order,0
+C00570,58,562.46,Month-to-month,No,Fiber,Debit order,0
+C00571,5,527.54,Month-to-month,Yes,Fiber,EFT,0
+C00572,20,607.44,Month-to-month,Yes,None,EFT,0
+C00573,68,518.31,Month-to-month,Yes,DSL,Credit card,0
+C00574,64,829.2,Two year,No,DSL,Debit order,0
+C00575,42,689.76,Month-to-month,Yes,Fiber,Debit order,0
+C00576,3,866.74,Two year,Yes,Fiber,EFT,0
+C00577,5,640.17,Month-to-month,Yes,Fiber,Credit card,1
+C00578,31,646.98,Month-to-month,No,Fiber,Debit order,0
+C00579,65,1057.21,Month-to-month,Yes,DSL,Debit order,0
+C00580,28,427.85,Month-to-month,Yes,DSL,EFT,0
+C00581,64,951.21,Two year,Yes,DSL,Credit card,0
+C00582,39,1017.81,Month-to-month,No,Fiber,EFT,0
+C00583,10,857.85,Two year,Yes,Fiber,Debit order,1
+C00584,41,660.52,Month-to-month,No,DSL,Debit order,0
+C00585,27,976.84,Month-to-month,Yes,Fiber,Debit order,0
+C00586,17,662.08,Month-to-month,Yes,Fiber,Credit card,0
+C00587,49,592.96,One year,No,Fiber,Debit order,0
+C00588,15,650.11,Month-to-month,No,Fiber,Debit order,0
+C00589,66,617.37,Two year,No,Fiber,Debit order,0
+C00590,58,549.61,Month-to-month,Yes,Fiber,Debit order,0
+C00591,57,919.8,Month-to-month,No,DSL,EFT,0
+C00592,6,580.78,One year,No,Fiber,Debit order,0
+C00593,70,714.66,Month-to-month,No,DSL,Credit card,1
+C00594,36,460.12,One year,No,DSL,Credit card,1
+C00595,53,725.55,Month-to-month,No,DSL,Debit order,0
+C00596,14,511.93,One year,No,DSL,Credit card,0
+C00597,56,507.51,Month-to-month,Yes,Fiber,EFT,0
+C00598,24,700.33,Two year,No,Fiber,Credit card,0
+C00599,51,910.26,Month-to-month,No,DSL,Credit card,0
+C00600,20,799.27,One year,No,None,EFT,0
+C00601,68,811.64,Month-to-month,Yes,Fiber,EFT,0
+C00602,52,696.61,One year,Yes,Fiber,EFT,0
+C00603,33,659.58,Two year,Yes,None,Debit order,0
+C00604,33,862.41,Two year,No,DSL,Credit card,0
+C00605,1,618.63,Month-to-month,No,DSL,Credit card,1
+C00606,22,870.2,Month-to-month,Yes,DSL,Debit order,0
+C00607,57,942.47,Two year,Yes,DSL,Debit order,0
+C00608,60,568.55,Month-to-month,Yes,DSL,EFT,0
+C00609,72,595.0,One year,No,DSL,Debit order,0
+C00610,7,621.77,Month-to-month,No,DSL,EFT,0
+C00611,19,455.95,Month-to-month,Yes,Fiber,EFT,0
+C00612,56,635.51,Month-to-month,No,None,Debit order,0
+C00613,27,954.26,One year,No,None,Debit order,1
+C00614,18,531.8,Month-to-month,No,DSL,EFT,0
+C00615,21,958.54,Month-to-month,No,Fiber,Debit order,1
+C00616,67,641.98,Two year,Yes,DSL,EFT,0
+C00617,62,1100.53,Month-to-month,Yes,Fiber,Debit order,0
+C00618,1,597.27,Two year,Yes,DSL,Debit order,0
+C00619,61,694.08,Month-to-month,No,Fiber,Debit order,0
+C00620,41,556.17,Month-to-month,No,DSL,Debit order,0
+C00621,61,596.21,Month-to-month,Yes,None,EFT,0
+C00622,45,960.87,Month-to-month,No,Fiber,Debit order,0
+C00623,50,805.42,One year,No,DSL,Debit order,0
+C00624,42,905.19,Month-to-month,No,DSL,Credit card,0
+C00625,53,483.19,Month-to-month,No,Fiber,EFT,0
+C00626,59,837.87,Month-to-month,Yes,Fiber,Debit order,0
+C00627,37,545.14,One year,No,Fiber,EFT,0
+C00628,9,479.28,Two year,No,DSL,Debit order,0
+C00629,7,762.98,Month-to-month,No,Fiber,EFT,0
+C00630,30,761.14,Month-to-month,No,Fiber,Credit card,1
+C00631,35,729.6,Month-to-month,No,Fiber,EFT,0
+C00632,63,849.16,One year,No,Fiber,Credit card,0
+C00633,3,877.24,Month-to-month,Yes,Fiber,EFT,0
+C00634,64,984.55,Month-to-month,No,DSL,Debit order,0
+C00635,4,505.74,One year,Yes,Fiber,Credit card,0
+C00636,36,990.36,Month-to-month,Yes,DSL,Credit card,0
+C00637,31,1058.82,One year,Yes,DSL,Debit order,0
+C00638,41,654.08,Month-to-month,No,DSL,EFT,1
+C00639,4,419.67,Two year,No,Fiber,EFT,0
+C00640,56,470.97,Month-to-month,Yes,DSL,EFT,0
+C00641,10,636.87,Month-to-month,No,DSL,Debit order,1
+C00642,57,1082.55,Month-to-month,Yes,DSL,EFT,0
+C00643,41,723.07,Month-to-month,No,Fiber,Debit order,0
+C00644,64,608.91,One year,Yes,Fiber,EFT,0
+C00645,71,596.63,Month-to-month,No,DSL,Debit order,0
+C00646,61,481.91,Month-to-month,No,Fiber,Credit card,0
+C00647,33,877.42,One year,No,None,Debit order,0
+C00648,30,703.43,Month-to-month,No,DSL,Credit card,1
+C00649,48,1097.97,One year,No,DSL,Debit order,0
+C00650,47,833.08,One year,Yes,None,EFT,0
+C00651,57,869.39,Month-to-month,Yes,DSL,EFT,0
+C00652,35,676.42,One year,Yes,Fiber,Debit order,0
+C00653,34,523.61,Two year,No,Fiber,EFT,0
+C00654,9,562.76,One year,No,DSL,Credit card,1
+C00655,13,473.54,Month-to-month,No,Fiber,Debit order,0
+C00656,60,883.87,Month-to-month,No,None,Debit order,0
+C00657,72,650.72,Two year,Yes,Fiber,Debit order,0
+C00658,44,891.45,One year,Yes,Fiber,Debit order,0
+C00659,25,744.46,Month-to-month,No,DSL,Credit card,0
+C00660,5,667.29,Month-to-month,Yes,DSL,Credit card,0
+C00661,4,509.47,One year,No,DSL,Debit order,1
+C00662,49,774.29,One year,Yes,Fiber,EFT,0
+C00663,47,680.65,Two year,Yes,Fiber,Debit order,0
+C00664,21,882.39,Two year,Yes,DSL,EFT,0
+C00665,14,591.23,Month-to-month,No,None,EFT,0
+C00666,5,830.9,One year,Yes,Fiber,EFT,0
+C00667,50,1015.35,Month-to-month,No,DSL,Credit card,0
+C00668,44,769.06,Month-to-month,Yes,Fiber,Debit order,0
+C00669,24,861.35,Month-to-month,No,DSL,EFT,0
+C00670,53,822.94,Two year,No,Fiber,Credit card,0
+C00671,61,1061.66,Month-to-month,No,None,EFT,0
+C00672,38,786.88,Month-to-month,Yes,Fiber,Debit order,0
+C00673,19,845.99,Month-to-month,Yes,DSL,Credit card,0
+C00674,1,713.47,Month-to-month,No,DSL,Debit order,0
+C00675,58,580.61,Month-to-month,No,Fiber,Credit card,0
+C00676,42,502.53,Month-to-month,Yes,Fiber,EFT,0
+C00677,26,948.05,Month-to-month,No,DSL,Debit order,0
+C00678,1,538.5,Month-to-month,Yes,DSL,Debit order,1
+C00679,59,854.26,One year,No,DSL,Debit order,0
+C00680,67,794.88,One year,No,DSL,Debit order,0
+C00681,35,885.2,Two year,Yes,Fiber,Debit order,0
+C00682,20,627.35,Month-to-month,No,None,Debit order,0
+C00683,45,577.67,Month-to-month,No,Fiber,Debit order,0
+C00684,63,788.11,Month-to-month,No,DSL,Credit card,0
+C00685,43,667.38,Two year,No,None,EFT,0
+C00686,1,498.41,Month-to-month,No,None,Debit order,0
+C00687,15,1068.93,Month-to-month,No,Fiber,Debit order,1
+C00688,7,577.55,Two year,Yes,Fiber,EFT,0
+C00689,30,541.15,Two year,No,DSL,Debit order,0
+C00690,33,676.42,Month-to-month,Yes,Fiber,Debit order,0
+C00691,39,945.51,One year,Yes,DSL,Credit card,0
+C00692,55,329.99,Month-to-month,No,DSL,EFT,0
+C00693,9,930.58,Month-to-month,Yes,Fiber,Debit order,0
+C00694,68,555.93,Month-to-month,No,Fiber,EFT,0
+C00695,19,767.61,Two year,No,DSL,Debit order,0
+C00696,38,598.32,Month-to-month,Yes,DSL,Debit order,0
+C00697,16,1078.55,One year,No,Fiber,Debit order,0
+C00698,26,742.43,Month-to-month,No,Fiber,EFT,0
+C00699,60,592.54,One year,No,Fiber,Credit card,0
+C00700,4,665.8,One year,No,DSL,Credit card,1
+C00701,35,736.13,One year,Yes,DSL,EFT,0
+C00702,43,751.98,Two year,No,DSL,Credit card,0
+C00703,42,798.98,One year,No,None,Debit order,0
+C00704,28,719.75,One year,Yes,DSL,Credit card,0
+C00705,28,472.11,Month-to-month,No,DSL,Debit order,0
+C00706,66,658.75,Two year,Yes,Fiber,Credit card,0
+C00707,18,829.2,Month-to-month,Yes,DSL,EFT,0
+C00708,35,599.42,Month-to-month,Yes,DSL,Credit card,0
+C00709,27,841.1,Month-to-month,No,DSL,Debit order,0
+C00710,56,725.71,Month-to-month,No,DSL,Credit card,0
+C00711,59,680.81,One year,No,Fiber,Debit order,0
+C00712,62,934.95,Month-to-month,Yes,DSL,Debit order,0
+C00713,7,407.14,Month-to-month,No,DSL,Credit card,0
+C00714,8,598.44,Two year,No,None,Debit order,0
+C00715,28,941.84,Two year,Yes,Fiber,Debit order,0
+C00716,32,1049.41,Month-to-month,No,None,Credit card,1
+C00717,5,1131.48,Two year,Yes,DSL,Debit order,0
+C00718,65,729.06,Month-to-month,No,DSL,Debit order,0
+C00719,65,802.42,Month-to-month,No,Fiber,EFT,0
+C00720,31,867.14,Two year,Yes,DSL,Debit order,0
+C00721,56,949.51,One year,Yes,DSL,Debit order,0
+C00722,41,776.36,One year,No,DSL,EFT,0
+C00723,48,886.71,Month-to-month,No,None,Debit order,0
+C00724,63,802.76,Month-to-month,Yes,Fiber,EFT,0
+C00725,7,814.0,Month-to-month,Yes,DSL,Credit card,0
+C00726,17,554.69,Two year,No,Fiber,Credit card,0
+C00727,31,660.74,Month-to-month,No,Fiber,Debit order,1
+C00728,65,625.9,Month-to-month,No,Fiber,Debit order,0
+C00729,43,506.0,Month-to-month,No,Fiber,EFT,0
+C00730,29,422.71,One year,No,Fiber,Debit order,0
+C00731,3,643.75,Month-to-month,Yes,Fiber,EFT,1
+C00732,43,672.5,One year,Yes,Fiber,EFT,0
+C00733,20,738.91,Month-to-month,No,DSL,Credit card,0
+C00734,24,820.03,Month-to-month,No,Fiber,Debit order,0
+C00735,72,753.86,Month-to-month,Yes,Fiber,Credit card,0
+C00736,38,673.76,Month-to-month,Yes,Fiber,Credit card,0
+C00737,10,555.28,One year,Yes,Fiber,Debit order,0
+C00738,4,877.87,One year,No,Fiber,EFT,0
+C00739,28,701.67,Month-to-month,No,None,Debit order,0
+C00740,5,641.92,Month-to-month,No,DSL,EFT,0
+C00741,31,686.44,Month-to-month,Yes,Fiber,Debit order,1
+C00742,30,588.11,Two year,No,DSL,Debit order,0
+C00743,64,624.48,Two year,Yes,Fiber,Credit card,0
+C00744,25,618.76,One year,No,DSL,Debit order,0
+C00745,20,668.28,Month-to-month,Yes,None,Debit order,0
+C00746,45,838.04,Month-to-month,No,Fiber,Debit order,0
+C00747,47,793.28,Two year,No,Fiber,EFT,0
+C00748,3,998.41,Month-to-month,No,DSL,Debit order,0
+C00749,7,938.11,One year,Yes,Fiber,Credit card,0
+C00750,13,1072.16,Two year,Yes,Fiber,Credit card,0
+C00751,56,820.65,One year,No,DSL,Credit card,0
+C00752,16,817.76,One year,No,DSL,Debit order,0
+C00753,72,632.27,Month-to-month,No,Fiber,Debit order,0
+C00754,32,868.68,Two year,No,DSL,EFT,0
+C00755,68,601.9,Month-to-month,No,Fiber,EFT,0
+C00756,18,455.32,Two year,No,Fiber,EFT,0
+C00757,31,994.74,Month-to-month,No,DSL,Credit card,1
+C00758,10,495.15,One year,No,DSL,EFT,0
+C00759,61,798.99,Two year,No,DSL,EFT,0
+C00760,44,561.54,Month-to-month,Yes,DSL,Credit card,0
+C00761,6,922.8,Month-to-month,No,DSL,EFT,0
+C00762,54,947.33,Month-to-month,Yes,DSL,Debit order,0
+C00763,64,815.25,One year,Yes,DSL,Debit order,0
+C00764,50,944.35,One year,Yes,Fiber,Credit card,0
+C00765,59,721.32,Month-to-month,No,DSL,Credit card,0
+C00766,20,1122.15,Two year,No,Fiber,Debit order,1
+C00767,32,854.31,Two year,Yes,DSL,Credit card,0
+C00768,62,557.9,Two year,Yes,Fiber,Credit card,0
+C00769,44,732.53,One year,Yes,Fiber,EFT,0
+C00770,45,692.55,Two year,Yes,DSL,Debit order,0
+C00771,56,674.92,Two year,Yes,DSL,Debit order,0
+C00772,45,421.71,Month-to-month,Yes,Fiber,Credit card,0
+C00773,10,789.64,Two year,No,Fiber,Credit card,0
+C00774,16,470.56,Month-to-month,No,DSL,EFT,0
+C00775,57,265.43,Two year,Yes,None,Debit order,0
+C00776,18,658.08,One year,Yes,Fiber,Debit order,0
+C00777,48,583.94,One year,Yes,Fiber,EFT,0
+C00778,35,564.92,Month-to-month,Yes,Fiber,Debit order,0
+C00779,45,250.0,Month-to-month,No,Fiber,Credit card,0
+C00780,18,566.85,Month-to-month,No,Fiber,Debit order,0
+C00781,23,688.74,One year,No,DSL,Debit order,1
+C00782,50,605.85,Two year,No,DSL,EFT,0
+C00783,13,789.72,Month-to-month,Yes,Fiber,Debit order,0
+C00784,23,970.68,Month-to-month,No,Fiber,Debit order,0
+C00785,72,812.95,One year,No,Fiber,EFT,0
+C00786,11,904.75,Month-to-month,Yes,DSL,Debit order,0
+C00787,42,919.64,Month-to-month,No,Fiber,Debit order,0
+C00788,11,536.61,Month-to-month,Yes,Fiber,Credit card,0
+C00789,51,799.04,One year,No,DSL,Debit order,0
+C00790,10,899.13,One year,Yes,Fiber,Credit card,0
+C00791,42,641.53,Two year,No,DSL,Debit order,0
+C00792,32,577.69,Month-to-month,Yes,DSL,Debit order,0
+C00793,50,815.47,Month-to-month,No,Fiber,Debit order,0
+C00794,1,453.31,One year,No,Fiber,EFT,1
+C00795,38,524.16,Two year,No,DSL,Debit order,0
+C00796,40,599.98,Month-to-month,No,Fiber,EFT,0
+C00797,18,801.09,Two year,Yes,Fiber,Debit order,0
+C00798,22,759.4,One year,No,DSL,Debit order,0
+C00799,51,905.83,Two year,Yes,DSL,Credit card,0
+C00800,40,554.06,Month-to-month,No,None,Debit order,0
+C00801,42,544.41,Month-to-month,Yes,Fiber,Credit card,1
+C00802,68,814.3,Month-to-month,No,Fiber,EFT,0
+C00803,30,576.24,One year,No,Fiber,EFT,0
+C00804,63,611.37,Two year,No,Fiber,Credit card,1
+C00805,71,385.78,Month-to-month,No,DSL,Credit card,0
+C00806,42,772.35,Month-to-month,Yes,Fiber,Debit order,0
+C00807,16,997.43,Month-to-month,No,Fiber,EFT,0
+C00808,31,534.73,One year,Yes,Fiber,Debit order,0
+C00809,4,903.91,Two year,Yes,Fiber,Debit order,0
+C00810,51,709.31,Month-to-month,No,Fiber,Credit card,0
+C00811,20,402.23,One year,No,DSL,Debit order,0
+C00812,67,558.95,Month-to-month,No,Fiber,Credit card,0
+C00813,48,547.84,Two year,No,DSL,Debit order,0
+C00814,36,663.02,Two year,Yes,Fiber,Debit order,0
+C00815,14,795.51,Month-to-month,Yes,Fiber,Credit card,0
+C00816,8,1052.81,One year,No,None,Credit card,0
+C00817,49,462.39,Two year,Yes,None,EFT,0
+C00818,56,632.74,Two year,No,Fiber,Debit order,1
+C00819,20,558.72,One year,No,Fiber,Debit order,0
+C00820,1,491.76,Month-to-month,Yes,DSL,Debit order,0
+C00821,24,737.18,Month-to-month,No,DSL,Debit order,1
+C00822,56,720.27,One year,No,Fiber,Debit order,0
+C00823,42,393.52,Month-to-month,No,Fiber,EFT,1
+C00824,7,723.27,Two year,No,Fiber,Debit order,0
+C00825,9,503.03,Month-to-month,No,DSL,EFT,0
+C00826,8,722.13,Two year,Yes,DSL,Credit card,0
+C00827,55,948.51,Month-to-month,No,Fiber,Credit card,0
+C00828,57,803.35,Month-to-month,No,Fiber,Debit order,0
+C00829,30,751.95,Month-to-month,No,Fiber,Debit order,0
+C00830,50,624.82,One year,No,DSL,Debit order,0
+C00831,2,732.04,Two year,No,DSL,Credit card,0
+C00832,41,821.39,Month-to-month,Yes,DSL,Credit card,1
+C00833,20,803.55,Month-to-month,Yes,DSL,Debit order,1
+C00834,60,702.14,Two year,No,Fiber,Debit order,0
+C00835,36,759.13,Month-to-month,No,DSL,EFT,0
+C00836,62,483.02,Month-to-month,No,Fiber,Debit order,0
+C00837,41,587.82,Two year,No,Fiber,Debit order,0
+C00838,33,847.36,Month-to-month,No,Fiber,Debit order,1
+C00839,69,871.57,Month-to-month,No,DSL,Debit order,0
+C00840,72,736.85,Month-to-month,No,Fiber,Debit order,0
+C00841,33,986.21,One year,No,Fiber,Credit card,0
+C00842,26,811.44,Month-to-month,No,DSL,Credit card,1
+C00843,47,678.04,Two year,No,DSL,Credit card,1
+C00844,13,500.44,Month-to-month,No,Fiber,Debit order,1
+C00845,28,978.97,Two year,No,Fiber,Debit order,1
+C00846,61,858.66,Month-to-month,No,DSL,EFT,0
+C00847,65,1043.7,Month-to-month,Yes,Fiber,Debit order,0
+C00848,30,1110.03,Month-to-month,Yes,Fiber,Debit order,0
+C00849,29,488.35,Month-to-month,No,Fiber,Credit card,0
+C00850,63,488.82,Month-to-month,No,Fiber,Credit card,0
+C00851,15,250.0,Two year,No,DSL,Debit order,0
+C00852,5,885.31,One year,Yes,DSL,EFT,0
+C00853,6,838.17,One year,Yes,Fiber,Debit order,0
+C00854,8,737.6,Month-to-month,No,None,EFT,0
+C00855,64,499.3,Two year,No,DSL,Debit order,0
+C00856,3,703.97,Month-to-month,No,DSL,Credit card,1
+C00857,24,753.25,One year,No,Fiber,Debit order,0
+C00858,44,860.89,One year,No,Fiber,EFT,0
+C00859,44,769.14,Month-to-month,No,DSL,Credit card,1
+C00860,60,839.48,Month-to-month,Yes,DSL,EFT,0
+C00861,71,697.66,Two year,No,Fiber,EFT,0
+C00862,29,932.67,Month-to-month,No,Fiber,Credit card,0
+C00863,17,833.71,One year,No,Fiber,Debit order,1
+C00864,7,506.35,Two year,No,Fiber,Debit order,0
+C00865,65,970.06,Month-to-month,No,Fiber,EFT,0
+C00866,27,940.6,Month-to-month,Yes,Fiber,EFT,0
+C00867,65,803.79,Month-to-month,Yes,Fiber,Debit order,0
+C00868,26,770.53,One year,No,DSL,Debit order,0
+C00869,55,1018.55,Month-to-month,No,DSL,Debit order,0
+C00870,47,426.0,Month-to-month,No,Fiber,Debit order,0
+C00871,52,943.42,Month-to-month,Yes,Fiber,Debit order,0
+C00872,47,634.28,Two year,No,Fiber,EFT,0
+C00873,23,917.13,Two year,Yes,Fiber,Debit order,0
+C00874,8,741.67,One year,Yes,DSL,EFT,1
+C00875,1,496.27,Two year,Yes,Fiber,EFT,0
+C00876,31,630.63,One year,No,DSL,Debit order,0
+C00877,65,903.91,Two year,Yes,Fiber,Credit card,0
+C00878,47,682.16,Month-to-month,Yes,None,Credit card,0
+C00879,49,608.13,Month-to-month,Yes,DSL,Debit order,0
+C00880,19,606.93,Two year,No,DSL,Credit card,0
+C00881,36,835.6,Month-to-month,Yes,None,Credit card,0
+C00882,30,1035.11,Month-to-month,Yes,Fiber,Debit order,0
+C00883,10,334.64,One year,No,Fiber,EFT,0
+C00884,45,1224.12,One year,No,Fiber,Debit order,1
+C00885,27,756.67,Month-to-month,No,DSL,Debit order,0
+C00886,30,824.44,Month-to-month,No,DSL,EFT,0
+C00887,43,641.47,Month-to-month,No,Fiber,Debit order,0
+C00888,3,719.37,Month-to-month,No,DSL,Debit order,0
+C00889,68,754.65,Month-to-month,No,Fiber,Debit order,0
+C00890,17,531.16,Month-to-month,No,Fiber,Debit order,0
+C00891,49,574.98,One year,Yes,DSL,Debit order,0
+C00892,56,933.22,Month-to-month,Yes,Fiber,Credit card,0
+C00893,12,440.58,Month-to-month,Yes,Fiber,Debit order,0
+C00894,18,799.39,One year,No,DSL,Credit card,0
+C00895,30,653.31,Month-to-month,No,DSL,Debit order,0
+C00896,59,547.07,Month-to-month,Yes,DSL,Debit order,0
+C00897,46,1074.95,Month-to-month,No,Fiber,EFT,0
+C00898,34,548.19,One year,No,Fiber,EFT,0
+C00899,62,516.58,Month-to-month,No,DSL,Credit card,0
+C00900,35,686.34,Month-to-month,Yes,DSL,Debit order,0
+C00901,64,581.66,One year,No,Fiber,Credit card,0
+C00902,56,721.15,Two year,Yes,DSL,EFT,0
+C00903,13,747.97,One year,Yes,DSL,EFT,1
+C00904,28,762.24,Two year,No,DSL,Credit card,0
+C00905,2,697.7,One year,Yes,DSL,Credit card,0
+C00906,18,593.61,Month-to-month,No,Fiber,Debit order,0
+C00907,2,835.81,Month-to-month,Yes,DSL,Debit order,0
+C00908,8,699.9,Month-to-month,No,Fiber,Debit order,0
+C00909,1,630.79,Month-to-month,Yes,Fiber,Debit order,0
+C00910,49,986.4,Month-to-month,No,Fiber,Debit order,0
+C00911,30,698.16,Month-to-month,Yes,Fiber,Debit order,1
+C00912,34,916.56,One year,No,DSL,Credit card,0
+C00913,56,940.83,One year,Yes,DSL,Credit card,0
+C00914,59,951.78,Month-to-month,No,Fiber,Credit card,1
+C00915,39,844.41,Month-to-month,No,Fiber,Debit order,0
+C00916,33,719.89,Month-to-month,No,None,Credit card,0
+C00917,47,708.47,Month-to-month,Yes,Fiber,EFT,0
+C00918,30,676.06,Month-to-month,No,Fiber,Debit order,0
+C00919,32,329.96,Month-to-month,No,DSL,EFT,0
+C00920,22,849.39,Month-to-month,No,None,Debit order,0
+C00921,14,764.0,Two year,No,DSL,Credit card,0
+C00922,15,868.59,Month-to-month,No,Fiber,Credit card,1
+C00923,48,698.94,Month-to-month,No,DSL,Credit card,1
+C00924,60,839.67,Month-to-month,No,DSL,EFT,0
+C00925,31,472.05,Month-to-month,Yes,DSL,Debit order,1
+C00926,7,509.53,Month-to-month,Yes,Fiber,EFT,0
+C00927,44,274.28,Two year,No,DSL,EFT,0
+C00928,65,695.82,Month-to-month,No,DSL,EFT,0
+C00929,38,580.95,Month-to-month,No,Fiber,Debit order,0
+C00930,2,557.39,Two year,Yes,Fiber,Debit order,1
+C00931,6,780.24,Month-to-month,No,Fiber,EFT,1
+C00932,38,643.41,Month-to-month,No,None,Credit card,0
+C00933,63,462.04,One year,No,Fiber,EFT,0
+C00934,5,1178.06,Month-to-month,No,DSL,Debit order,0
+C00935,55,713.34,Two year,Yes,Fiber,EFT,0
+C00936,57,525.03,Month-to-month,Yes,DSL,EFT,0
+C00937,4,599.43,One year,Yes,Fiber,EFT,0
+C00938,16,688.83,Month-to-month,No,None,Credit card,0
+C00939,1,688.46,One year,No,DSL,Debit order,0
+C00940,41,954.39,Two year,Yes,DSL,Credit card,0
+C00941,13,705.7,Two year,Yes,DSL,Credit card,0
+C00942,66,1053.94,Two year,No,DSL,Debit order,0
+C00943,7,642.16,One year,No,None,Debit order,0
+C00944,47,796.76,Month-to-month,No,Fiber,EFT,0
+C00945,57,903.96,Month-to-month,No,DSL,Debit order,0
+C00946,13,935.13,Month-to-month,No,Fiber,Debit order,0
+C00947,19,956.14,Month-to-month,No,DSL,Credit card,0
+C00948,58,671.04,Month-to-month,No,None,EFT,1
+C00949,7,719.01,One year,Yes,DSL,Credit card,0
+C00950,32,273.7,One year,Yes,Fiber,Debit order,0
+C00951,19,684.72,Two year,Yes,Fiber,Debit order,0
+C00952,1,916.43,Month-to-month,No,DSL,Debit order,0
+C00953,33,881.43,One year,No,Fiber,Debit order,0
+C00954,36,704.43,One year,Yes,None,EFT,0
+C00955,25,1025.85,Two year,No,Fiber,Debit order,0
+C00956,59,650.88,One year,No,Fiber,Debit order,0
+C00957,7,591.09,Month-to-month,Yes,DSL,EFT,0
+C00958,31,635.73,Month-to-month,No,Fiber,Debit order,0
+C00959,14,517.96,Two year,No,Fiber,Debit order,1
+C00960,55,832.03,One year,Yes,Fiber,Credit card,0
+C00961,41,771.93,One year,No,None,Debit order,0
+C00962,51,829.8,One year,Yes,DSL,Debit order,0
+C00963,8,645.41,One year,No,None,EFT,0
+C00964,33,709.55,One year,No,Fiber,EFT,0
+C00965,4,327.88,Two year,No,Fiber,EFT,0
+C00966,24,787.72,Two year,No,Fiber,Credit card,0
+C00967,69,737.79,Month-to-month,Yes,Fiber,Debit order,0
+C00968,53,521.91,Month-to-month,No,Fiber,EFT,0
+C00969,6,701.16,Month-to-month,No,Fiber,Credit card,0
+C00970,27,673.59,Month-to-month,Yes,Fiber,Debit order,1
+C00971,63,1037.58,Two year,No,DSL,Debit order,0
+C00972,13,529.0,Two year,Yes,Fiber,Credit card,0
+C00973,55,779.66,Month-to-month,Yes,DSL,Debit order,1
+C00974,24,523.66,Month-to-month,No,Fiber,Debit order,0
+C00975,35,619.58,Month-to-month,No,DSL,Debit order,0
+C00976,64,769.83,Two year,No,DSL,Credit card,0
+C00977,49,681.95,One year,No,DSL,Debit order,0
+C00978,21,718.92,Month-to-month,No,DSL,Credit card,0
+C00979,1,779.89,Month-to-month,No,Fiber,Debit order,1
+C00980,17,631.14,Month-to-month,No,Fiber,Credit card,1
+C00981,31,879.15,Month-to-month,No,DSL,Debit order,0
+C00982,10,665.01,Two year,No,None,Debit order,1
+C00983,64,702.44,Two year,No,DSL,Credit card,0
+C00984,4,785.04,Month-to-month,Yes,Fiber,Credit card,0
+C00985,39,760.86,Month-to-month,No,DSL,Debit order,0
+C00986,71,835.96,Month-to-month,Yes,None,Credit card,0
+C00987,25,777.05,Month-to-month,No,Fiber,EFT,0
+C00988,39,804.43,Month-to-month,No,Fiber,Debit order,0
+C00989,6,661.43,Month-to-month,No,DSL,Credit card,0
+C00990,53,527.62,Month-to-month,No,DSL,Debit order,0
+C00991,71,463.02,Two year,No,Fiber,EFT,0
+C00992,56,419.27,Month-to-month,Yes,Fiber,Debit order,0
+C00993,11,1037.29,One year,No,DSL,EFT,0
+C00994,26,321.7,Month-to-month,No,DSL,Credit card,1
+C00995,53,934.87,Month-to-month,Yes,DSL,Credit card,0
+C00996,58,572.24,Month-to-month,Yes,Fiber,Debit order,0
+C00997,30,933.56,Month-to-month,No,Fiber,Credit card,0
+C00998,70,323.54,Month-to-month,No,DSL,Debit order,0
+C00999,15,677.68,Two year,No,Fiber,Debit order,0
+C01000,54,981.72,Two year,No,Fiber,Debit order,0
+C01001,36,848.38,Month-to-month,No,DSL,Credit card,0
+C01002,52,659.29,Month-to-month,Yes,Fiber,EFT,1
+C01003,43,370.26,Month-to-month,No,DSL,EFT,0
+C01004,32,481.95,One year,No,Fiber,Debit order,1
+C01005,59,970.05,Month-to-month,No,DSL,EFT,0
+C01006,61,657.32,Month-to-month,No,DSL,EFT,0
+C01007,59,707.07,Two year,Yes,DSL,EFT,0
+C01008,7,771.04,Two year,Yes,DSL,Credit card,0
+C01009,31,485.49,One year,No,Fiber,Debit order,0
+C01010,54,793.31,Month-to-month,No,DSL,EFT,0
+C01011,63,644.47,Month-to-month,No,Fiber,Credit card,0
+C01012,27,772.87,Month-to-month,No,None,Credit card,0
+C01013,54,615.95,One year,No,Fiber,Debit order,0
+C01014,41,436.84,One year,No,DSL,Debit order,0
+C01015,16,643.07,Month-to-month,Yes,Fiber,Debit order,0
+C01016,65,835.34,Two year,Yes,Fiber,Credit card,0
+C01017,33,790.93,Month-to-month,No,Fiber,Debit order,0
+C01018,44,725.57,One year,Yes,Fiber,EFT,0
+C01019,21,881.66,Month-to-month,Yes,Fiber,Debit order,0
+C01020,2,683.35,Month-to-month,Yes,Fiber,Debit order,0
+C01021,33,730.13,Month-to-month,No,DSL,Debit order,0
+C01022,53,633.64,One year,Yes,Fiber,Debit order,0
+C01023,24,892.19,Month-to-month,Yes,Fiber,Debit order,0
+C01024,67,772.48,Month-to-month,No,None,Credit card,0
+C01025,55,619.75,One year,No,DSL,EFT,0
+C01026,47,451.97,One year,Yes,Fiber,Debit order,0
+C01027,59,918.89,One year,No,Fiber,Debit order,0
+C01028,63,586.07,One year,No,Fiber,EFT,0
+C01029,52,732.97,One year,No,DSL,Debit order,0
+C01030,60,1143.47,One year,No,DSL,Credit card,0
+C01031,52,864.27,Month-to-month,Yes,DSL,Credit card,0
+C01032,63,1010.01,Month-to-month,Yes,None,EFT,0
+C01033,8,623.14,Month-to-month,No,DSL,Debit order,0
+C01034,25,912.78,Month-to-month,Yes,None,EFT,0
+C01035,64,724.8,Month-to-month,No,DSL,EFT,0
+C01036,35,785.88,Month-to-month,Yes,DSL,Debit order,0
+C01037,2,1083.75,Month-to-month,No,DSL,Credit card,0
+C01038,62,669.84,One year,No,DSL,Debit order,0
+C01039,48,723.47,One year,No,Fiber,Debit order,0
+C01040,66,557.42,Month-to-month,Yes,Fiber,EFT,0
+C01041,2,879.92,Two year,Yes,Fiber,Debit order,0
+C01042,11,619.09,Month-to-month,No,Fiber,Debit order,0
+C01043,37,904.09,Month-to-month,Yes,None,Debit order,0
+C01044,14,423.02,Month-to-month,No,DSL,Credit card,0
+C01045,38,818.75,Month-to-month,No,Fiber,EFT,0
+C01046,25,604.14,Month-to-month,Yes,Fiber,Credit card,0
+C01047,16,851.49,Two year,No,Fiber,Credit card,0
+C01048,56,717.56,Month-to-month,Yes,DSL,Debit order,0
+C01049,3,623.64,Month-to-month,No,None,Credit card,1
+C01050,63,650.42,Month-to-month,No,Fiber,Debit order,0
+C01051,12,566.93,Month-to-month,No,Fiber,Credit card,0
+C01052,42,870.8,One year,No,None,Credit card,1
+C01053,72,531.25,One year,No,DSL,EFT,0
+C01054,9,671.93,One year,Yes,DSL,Credit card,0
+C01055,67,782.14,One year,Yes,Fiber,Credit card,0
+C01056,22,1010.43,Month-to-month,Yes,Fiber,Debit order,1
+C01057,54,718.33,Month-to-month,No,DSL,Debit order,0
+C01058,62,676.35,One year,No,Fiber,Credit card,0
+C01059,17,769.25,Month-to-month,No,DSL,Credit card,1
+C01060,26,346.78,Month-to-month,No,DSL,Credit card,0
+C01061,62,504.24,Month-to-month,No,Fiber,Credit card,0
+C01062,8,652.43,One year,Yes,Fiber,Debit order,0
+C01063,8,591.67,Month-to-month,Yes,DSL,Debit order,1
+C01064,22,431.85,Two year,No,None,Debit order,0
+C01065,44,874.4,Month-to-month,Yes,Fiber,Credit card,0
+C01066,59,766.76,Month-to-month,Yes,DSL,EFT,0
+C01067,41,745.25,Month-to-month,Yes,Fiber,Credit card,1
+C01068,36,595.08,Month-to-month,No,None,Credit card,0
+C01069,63,734.29,Month-to-month,Yes,DSL,Credit card,0
+C01070,13,812.6,One year,No,Fiber,Debit order,0
+C01071,65,672.32,Month-to-month,Yes,DSL,Debit order,0
+C01072,23,800.02,Month-to-month,Yes,DSL,Debit order,0
+C01073,20,576.71,Month-to-month,No,DSL,EFT,0
+C01074,69,737.55,Month-to-month,No,Fiber,Debit order,0
+C01075,47,925.65,Two year,No,DSL,Credit card,0
+C01076,32,941.76,Month-to-month,Yes,DSL,Debit order,0
+C01077,24,958.97,One year,No,Fiber,Credit card,0
+C01078,32,771.4,Month-to-month,No,Fiber,Debit order,0
+C01079,57,725.69,Month-to-month,No,DSL,EFT,0
+C01080,12,639.22,One year,Yes,DSL,Debit order,0
+C01081,13,394.65,Month-to-month,No,Fiber,EFT,0
+C01082,22,477.92,Two year,Yes,DSL,Credit card,0
+C01083,35,689.75,Month-to-month,No,Fiber,Debit order,0
+C01084,59,700.51,Month-to-month,No,DSL,Credit card,0
+C01085,16,974.2,Two year,No,Fiber,Credit card,1
+C01086,57,956.66,Month-to-month,Yes,Fiber,Debit order,0
+C01087,66,596.43,Two year,Yes,None,Credit card,0
+C01088,32,867.3,Two year,Yes,DSL,Credit card,0
+C01089,70,634.13,Month-to-month,No,Fiber,Credit card,0
+C01090,65,842.87,Month-to-month,Yes,None,Credit card,1
+C01091,58,865.08,One year,Yes,None,Credit card,0
+C01092,28,943.58,Month-to-month,No,DSL,Debit order,0
+C01093,22,631.32,One year,Yes,Fiber,Debit order,1
+C01094,63,902.57,Month-to-month,No,Fiber,Debit order,0
+C01095,32,382.89,Month-to-month,Yes,DSL,Credit card,0
+C01096,3,953.32,Month-to-month,No,None,Debit order,1
+C01097,52,715.5,One year,No,Fiber,Debit order,0
+C01098,26,719.33,One year,No,Fiber,EFT,0
+C01099,68,353.26,One year,No,Fiber,Debit order,0
+C01100,62,650.04,Month-to-month,No,Fiber,Debit order,1
+C01101,8,963.99,Month-to-month,No,DSL,EFT,1
+C01102,65,643.19,Month-to-month,Yes,Fiber,Credit card,0
+C01103,69,848.42,Month-to-month,No,DSL,EFT,0
+C01104,55,726.22,Month-to-month,No,DSL,Debit order,0
+C01105,20,911.28,One year,No,Fiber,Credit card,0
+C01106,49,754.47,Month-to-month,No,DSL,EFT,0
+C01107,63,552.27,Month-to-month,No,Fiber,Debit order,0
+C01108,59,730.16,One year,No,Fiber,Debit order,0
+C01109,32,1008.22,Month-to-month,No,Fiber,Debit order,1
+C01110,51,809.58,Two year,Yes,DSL,EFT,1
+C01111,28,699.04,Month-to-month,No,Fiber,Debit order,0
+C01112,19,1126.03,Month-to-month,Yes,None,Credit card,0
+C01113,49,928.66,Two year,No,Fiber,Credit card,0
+C01114,34,867.01,One year,Yes,Fiber,EFT,0
+C01115,17,777.12,One year,No,DSL,Debit order,0
+C01116,48,851.45,Month-to-month,No,None,Credit card,0
+C01117,24,857.29,Month-to-month,No,DSL,EFT,0
+C01118,43,327.09,One year,No,Fiber,Debit order,0
+C01119,27,791.09,Month-to-month,Yes,Fiber,Credit card,1
+C01120,64,691.05,Month-to-month,No,Fiber,Debit order,0
+C01121,62,630.04,Month-to-month,Yes,DSL,Debit order,0
+C01122,35,684.82,Month-to-month,Yes,DSL,Debit order,0
+C01123,52,439.95,Month-to-month,No,Fiber,Debit order,0
+C01124,13,395.17,One year,No,DSL,Debit order,0
+C01125,72,944.37,Month-to-month,No,DSL,EFT,0
+C01126,16,803.19,Two year,Yes,Fiber,Credit card,0
+C01127,63,285.66,Month-to-month,No,Fiber,Debit order,0
+C01128,61,616.25,Month-to-month,Yes,DSL,Credit card,0
+C01129,13,878.5,Month-to-month,Yes,Fiber,EFT,0
+C01130,1,669.6,One year,Yes,Fiber,Debit order,0
+C01131,54,944.1,One year,No,Fiber,Debit order,0
+C01132,63,908.96,Month-to-month,No,DSL,Debit order,0
+C01133,52,475.79,Month-to-month,Yes,DSL,EFT,0
+C01134,5,694.2,One year,Yes,DSL,EFT,0
+C01135,47,639.34,Month-to-month,No,Fiber,Credit card,0
+C01136,29,469.94,One year,No,DSL,Debit order,0
+C01137,66,458.23,One year,Yes,Fiber,Credit card,0
+C01138,58,574.92,Month-to-month,No,DSL,Credit card,0
+C01139,58,604.63,One year,No,None,Debit order,0
+C01140,30,770.98,One year,No,DSL,Debit order,0
+C01141,24,907.96,Month-to-month,Yes,Fiber,Debit order,0
+C01142,60,812.46,Month-to-month,No,DSL,Credit card,0
+C01143,9,855.07,Month-to-month,No,Fiber,EFT,0
+C01144,8,672.01,One year,No,Fiber,Debit order,0
+C01145,5,828.54,Month-to-month,No,None,EFT,0
+C01146,37,693.29,Month-to-month,No,Fiber,Credit card,0
+C01147,6,640.53,Month-to-month,No,Fiber,Credit card,0
+C01148,42,1061.48,Month-to-month,No,DSL,EFT,0
+C01149,13,300.51,Month-to-month,Yes,DSL,Credit card,0
+C01150,65,382.81,Month-to-month,No,DSL,Debit order,0
+C01151,32,788.89,Month-to-month,Yes,Fiber,Debit order,0
+C01152,7,672.3,Month-to-month,No,DSL,EFT,0
+C01153,50,461.34,One year,No,Fiber,Credit card,0
+C01154,25,530.17,One year,Yes,None,Debit order,0
+C01155,19,553.61,Month-to-month,No,Fiber,Credit card,0
+C01156,48,880.62,One year,No,Fiber,Debit order,0
+C01157,69,938.23,Month-to-month,No,DSL,Debit order,0
+C01158,71,1015.12,Month-to-month,No,Fiber,EFT,0
+C01159,32,433.98,Two year,Yes,DSL,Debit order,0
+C01160,62,473.92,Month-to-month,Yes,Fiber,Debit order,0
+C01161,16,461.59,Month-to-month,No,Fiber,Debit order,0
+C01162,61,951.99,Month-to-month,No,Fiber,EFT,0
+C01163,68,795.1,One year,No,Fiber,Debit order,0
+C01164,38,734.44,Month-to-month,No,Fiber,Debit order,0
+C01165,38,761.33,Two year,No,Fiber,Debit order,0
+C01166,41,709.78,Month-to-month,No,Fiber,Debit order,1
+C01167,6,518.19,Month-to-month,No,DSL,Debit order,0
+C01168,62,812.37,Month-to-month,No,DSL,Debit order,0
+C01169,54,686.5,One year,No,Fiber,Debit order,0
+C01170,63,503.94,Month-to-month,No,Fiber,Credit card,0
+C01171,9,823.37,Two year,Yes,Fiber,Debit order,1
+C01172,58,643.36,Two year,No,Fiber,Debit order,0
+C01173,27,760.95,Month-to-month,Yes,Fiber,Credit card,0
+C01174,59,697.5,Month-to-month,No,Fiber,Debit order,0
+C01175,72,880.45,Month-to-month,No,None,Debit order,0
+C01176,64,759.63,One year,No,DSL,EFT,0
+C01177,66,560.93,One year,Yes,Fiber,Credit card,0
+C01178,9,777.96,Month-to-month,No,Fiber,Credit card,1
+C01179,24,783.84,Two year,Yes,Fiber,Credit card,0
+C01180,22,812.04,Month-to-month,No,Fiber,EFT,1
+C01181,37,906.46,One year,No,DSL,Debit order,0
+C01182,71,609.12,Two year,No,Fiber,Debit order,0
+C01183,50,840.23,Month-to-month,Yes,Fiber,EFT,0
+C01184,40,409.53,Month-to-month,No,Fiber,Debit order,0
+C01185,58,698.4,Month-to-month,No,DSL,Credit card,0
+C01186,13,670.56,Two year,No,Fiber,Debit order,0
+C01187,48,980.61,Month-to-month,No,None,Debit order,0
+C01188,37,691.86,Two year,No,Fiber,Credit card,0
+C01189,15,829.44,Month-to-month,No,Fiber,Credit card,1
+C01190,47,402.88,Month-to-month,Yes,Fiber,Credit card,0
+C01191,61,656.68,Two year,No,DSL,Debit order,0
+C01192,60,567.66,Month-to-month,No,Fiber,Debit order,0
+C01193,61,1165.59,One year,Yes,Fiber,Credit card,0
+C01194,59,599.98,Month-to-month,Yes,Fiber,Debit order,0
+C01195,34,733.19,Month-to-month,No,Fiber,Credit card,0
+C01196,4,742.78,Month-to-month,No,Fiber,Credit card,1
+C01197,70,433.89,Month-to-month,No,DSL,Debit order,0
+C01198,33,625.31,One year,No,DSL,Debit order,0
+C01199,46,792.86,Month-to-month,No,DSL,EFT,0
+C01200,2,735.43,Month-to-month,No,None,Debit order,1
+C01201,64,305.93,Month-to-month,Yes,Fiber,Debit order,1
+C01202,64,617.94,One year,No,DSL,EFT,0
+C01203,67,903.75,One year,No,Fiber,Debit order,0
+C01204,13,825.88,One year,No,Fiber,EFT,0
+C01205,61,939.25,Two year,Yes,DSL,Debit order,0
+C01206,45,542.58,Month-to-month,No,Fiber,Debit order,0
+C01207,11,950.57,Month-to-month,No,Fiber,Credit card,1
+C01208,42,712.01,Month-to-month,No,DSL,Debit order,1
+C01209,35,1006.6,Month-to-month,No,Fiber,Credit card,0
+C01210,46,720.59,One year,No,Fiber,Debit order,1
+C01211,7,351.45,One year,No,DSL,Credit card,0
+C01212,41,872.87,Month-to-month,No,Fiber,EFT,0
+C01213,49,640.17,Two year,Yes,Fiber,Credit card,0
+C01214,52,652.28,Month-to-month,No,Fiber,Credit card,0
+C01215,56,458.44,One year,No,None,Debit order,0
+C01216,46,1012.0,Month-to-month,No,None,Debit order,0
+C01217,51,626.2,One year,No,DSL,EFT,0
+C01218,7,1003.51,Month-to-month,No,Fiber,Credit card,0
+C01219,58,642.38,Two year,No,Fiber,Credit card,0
+C01220,27,553.01,Two year,No,Fiber,Debit order,0
+C01221,40,957.52,Month-to-month,Yes,DSL,Debit order,0
+C01222,40,706.8,Month-to-month,No,DSL,Debit order,0
+C01223,71,708.56,One year,Yes,DSL,Debit order,0
+C01224,24,489.31,One year,No,Fiber,Debit order,0
+C01225,28,637.63,Month-to-month,No,DSL,Debit order,0
+C01226,55,797.17,One year,No,Fiber,Debit order,0
+C01227,46,486.15,Two year,Yes,Fiber,Credit card,0
+C01228,23,622.96,One year,No,Fiber,Credit card,1
+C01229,25,644.32,Month-to-month,No,DSL,Debit order,0
+C01230,60,731.96,Two year,No,DSL,EFT,0
+C01231,61,986.32,Month-to-month,No,Fiber,Credit card,0
+C01232,11,666.01,Month-to-month,No,None,Debit order,0
+C01233,29,595.71,Two year,No,Fiber,EFT,0
+C01234,56,1214.35,Month-to-month,Yes,Fiber,Credit card,0
+C01235,9,642.03,Month-to-month,Yes,Fiber,Credit card,0
+C01236,14,685.68,Month-to-month,No,Fiber,EFT,0
+C01237,12,655.59,One year,No,DSL,Debit order,0
+C01238,39,670.18,Month-to-month,Yes,Fiber,Credit card,0
+C01239,33,734.0,Month-to-month,Yes,Fiber,Debit order,0
+C01240,24,885.74,Month-to-month,No,Fiber,Debit order,0
+C01241,10,792.72,Month-to-month,Yes,DSL,Debit order,0
+C01242,46,913.88,Month-to-month,No,None,Debit order,0
+C01243,59,907.93,Month-to-month,No,DSL,Debit order,0
+C01244,16,757.54,Two year,No,Fiber,Credit card,0
+C01245,48,787.74,One year,Yes,Fiber,Debit order,0
+C01246,58,919.57,Two year,Yes,Fiber,Debit order,0
+C01247,41,519.98,Two year,Yes,None,Debit order,0
+C01248,42,1169.68,Two year,Yes,Fiber,Debit order,0
+C01249,13,627.73,One year,No,None,Credit card,0
+C01250,69,656.83,Month-to-month,No,DSL,Credit card,0
+C01251,69,501.86,One year,Yes,DSL,Credit card,0
+C01252,52,507.21,Month-to-month,No,DSL,EFT,0
+C01253,65,895.33,Month-to-month,No,Fiber,Debit order,0
+C01254,44,1128.63,Month-to-month,Yes,Fiber,Debit order,0
+C01255,48,617.9,Month-to-month,Yes,Fiber,EFT,0
+C01256,60,782.52,Month-to-month,No,Fiber,Credit card,0
+C01257,3,759.63,One year,No,DSL,EFT,1
+C01258,16,900.04,Month-to-month,No,Fiber,Credit card,0
+C01259,15,1119.37,Month-to-month,Yes,DSL,Credit card,0
+C01260,46,993.78,Month-to-month,No,DSL,Debit order,0
+C01261,18,677.04,Two year,Yes,Fiber,Debit order,0
+C01262,29,815.18,Month-to-month,Yes,Fiber,Credit card,0
+C01263,36,833.05,Month-to-month,No,Fiber,Credit card,0
+C01264,54,716.38,One year,No,Fiber,EFT,1
+C01265,38,522.73,Two year,Yes,DSL,EFT,0
+C01266,2,576.22,Month-to-month,Yes,DSL,Debit order,1
+C01267,50,926.67,One year,No,DSL,Debit order,0
+C01268,31,945.24,Month-to-month,Yes,Fiber,EFT,0
+C01269,9,682.64,Two year,Yes,DSL,EFT,1
+C01270,47,766.99,Month-to-month,Yes,DSL,EFT,0
+C01271,20,935.51,One year,Yes,None,Credit card,0
+C01272,34,413.23,Month-to-month,No,DSL,EFT,0
+C01273,70,639.66,One year,Yes,DSL,Debit order,0
+C01274,18,1083.22,Month-to-month,No,Fiber,Debit order,0
+C01275,64,773.88,Month-to-month,No,DSL,Debit order,0
+C01276,34,516.74,One year,Yes,Fiber,Debit order,0
+C01277,68,741.11,One year,No,Fiber,EFT,0
+C01278,62,903.86,Month-to-month,Yes,Fiber,Credit card,0
+C01279,60,261.62,Two year,No,Fiber,Credit card,0
+C01280,15,751.73,Month-to-month,No,Fiber,Debit order,1
+C01281,57,652.97,Month-to-month,No,Fiber,Credit card,0
+C01282,27,424.44,Month-to-month,No,DSL,Debit order,1
+C01283,66,734.75,Month-to-month,No,DSL,Credit card,0
+C01284,72,695.43,Two year,No,None,Debit order,0
+C01285,45,715.66,Month-to-month,No,DSL,Credit card,0
+C01286,66,657.31,Two year,Yes,Fiber,Debit order,0
+C01287,39,536.16,Month-to-month,Yes,DSL,Credit card,0
+C01288,3,458.14,One year,Yes,DSL,Credit card,0
+C01289,63,595.68,Month-to-month,Yes,Fiber,EFT,1
+C01290,39,874.67,One year,No,None,EFT,0
+C01291,4,761.95,Two year,No,None,Debit order,0
+C01292,5,707.55,Month-to-month,Yes,Fiber,Debit order,1
+C01293,53,532.84,Month-to-month,No,DSL,Debit order,0
+C01294,67,652.7,One year,No,Fiber,Debit order,0
+C01295,51,852.69,One year,No,None,Debit order,0
+C01296,32,810.86,Month-to-month,No,DSL,EFT,0
+C01297,23,634.1,One year,No,Fiber,EFT,0
+C01298,31,250.0,One year,No,DSL,Debit order,1
+C01299,24,598.53,One year,Yes,DSL,EFT,0
+C01300,20,633.11,Month-to-month,Yes,Fiber,EFT,0
+C01301,10,556.72,Month-to-month,No,DSL,Debit order,0
+C01302,41,645.63,Two year,Yes,DSL,EFT,0
+C01303,16,866.98,Month-to-month,Yes,Fiber,EFT,1
+C01304,11,713.29,Month-to-month,Yes,DSL,EFT,0
+C01305,20,898.15,Two year,No,Fiber,Credit card,0
+C01306,58,448.49,Month-to-month,No,Fiber,Debit order,0
+C01307,42,665.09,Month-to-month,No,DSL,Debit order,0
+C01308,36,370.98,One year,No,Fiber,EFT,0
+C01309,43,643.22,One year,No,Fiber,Debit order,0
+C01310,41,531.78,Two year,No,None,Debit order,0
+C01311,36,950.63,One year,No,DSL,Debit order,0
+C01312,61,793.75,Month-to-month,Yes,DSL,Credit card,0
+C01313,53,902.67,Month-to-month,Yes,DSL,Debit order,0
+C01314,14,642.72,Month-to-month,No,DSL,EFT,1
+C01315,59,536.45,Two year,No,DSL,Credit card,0
+C01316,13,530.72,Month-to-month,No,Fiber,Debit order,0
+C01317,6,767.78,Month-to-month,No,Fiber,Debit order,1
+C01318,31,1045.83,Month-to-month,No,Fiber,Credit card,0
+C01319,29,794.23,Month-to-month,Yes,Fiber,EFT,0
+C01320,57,652.54,Month-to-month,No,Fiber,EFT,0
+C01321,51,686.02,One year,No,DSL,EFT,0
+C01322,5,714.37,Month-to-month,No,DSL,Debit order,1
+C01323,36,1084.8,Two year,Yes,None,EFT,0
+C01324,58,942.05,Two year,Yes,Fiber,Credit card,0
+C01325,53,766.79,Month-to-month,No,Fiber,Credit card,0
+C01326,37,739.75,Two year,Yes,Fiber,Credit card,0
+C01327,45,773.88,Month-to-month,Yes,Fiber,Debit order,0
+C01328,41,808.97,Month-to-month,No,Fiber,Credit card,1
+C01329,17,645.62,Month-to-month,No,None,Credit card,0
+C01330,41,568.07,One year,Yes,Fiber,Debit order,0
+C01331,49,905.8,One year,No,DSL,Credit card,0
+C01332,5,723.96,Month-to-month,Yes,Fiber,Debit order,0
+C01333,51,890.77,One year,No,DSL,Credit card,0
+C01334,18,1016.31,One year,No,DSL,EFT,0
+C01335,1,813.71,One year,No,None,Debit order,0
+C01336,55,784.54,Month-to-month,Yes,Fiber,Debit order,0
+C01337,29,1296.04,One year,No,None,Credit card,0
+C01338,30,757.26,One year,No,Fiber,Debit order,0
+C01339,45,523.7,Month-to-month,No,DSL,Debit order,0
+C01340,41,669.38,One year,No,Fiber,Credit card,1
+C01341,45,999.3,Month-to-month,Yes,DSL,Debit order,0
+C01342,69,487.05,One year,Yes,DSL,Credit card,0
+C01343,47,584.56,One year,No,DSL,Debit order,0
+C01344,4,919.16,Month-to-month,No,DSL,Debit order,0
+C01345,17,671.11,Month-to-month,Yes,Fiber,Debit order,0
+C01346,33,700.16,One year,Yes,DSL,EFT,0
+C01347,35,913.21,Two year,Yes,Fiber,Credit card,0
+C01348,27,590.97,Two year,Yes,Fiber,Debit order,0
+C01349,14,455.65,One year,Yes,Fiber,Debit order,0
+C01350,8,470.0,Month-to-month,No,Fiber,Credit card,1
+C01351,11,824.72,Month-to-month,Yes,Fiber,Credit card,0
+C01352,69,766.64,One year,No,DSL,Debit order,1
+C01353,29,595.34,Month-to-month,Yes,Fiber,Debit order,0
+C01354,70,511.42,One year,Yes,DSL,Credit card,0
+C01355,25,671.3,Month-to-month,No,Fiber,Credit card,0
+C01356,23,920.97,Month-to-month,Yes,DSL,EFT,0
+C01357,36,569.55,One year,Yes,Fiber,Credit card,0
+C01358,69,600.72,One year,No,Fiber,Credit card,0
+C01359,41,505.71,One year,Yes,DSL,Credit card,0
+C01360,3,653.87,Month-to-month,Yes,None,Credit card,0
+C01361,20,780.85,One year,No,None,Credit card,1
+C01362,71,1100.73,Month-to-month,No,Fiber,Debit order,0
+C01363,12,759.2,One year,No,None,EFT,0
+C01364,61,710.34,One year,Yes,DSL,Debit order,0
+C01365,67,875.33,Month-to-month,Yes,None,Credit card,0
+C01366,16,845.32,One year,No,Fiber,Credit card,0
+C01367,41,616.02,Month-to-month,No,Fiber,EFT,0
+C01368,44,1134.37,Month-to-month,Yes,Fiber,Debit order,0
+C01369,58,715.61,One year,No,DSL,EFT,0
+C01370,58,762.55,Month-to-month,No,Fiber,Debit order,0
+C01371,5,819.24,Two year,No,Fiber,Debit order,1
+C01372,23,782.26,Month-to-month,No,DSL,EFT,1
+C01373,68,994.57,Month-to-month,No,None,Debit order,0
+C01374,26,613.82,One year,No,DSL,Credit card,0
+C01375,18,861.01,Month-to-month,Yes,DSL,Credit card,0
+C01376,46,749.62,Two year,No,Fiber,EFT,1
+C01377,15,896.89,Month-to-month,No,None,EFT,1
+C01378,11,681.3,Month-to-month,No,Fiber,Debit order,0
+C01379,58,656.93,Month-to-month,No,Fiber,EFT,1
+C01380,9,851.77,Month-to-month,Yes,Fiber,Debit order,0
+C01381,65,784.44,Month-to-month,No,Fiber,Credit card,0
+C01382,18,572.35,Month-to-month,No,DSL,EFT,0
+C01383,8,962.21,Month-to-month,No,DSL,Credit card,1
+C01384,54,851.85,Month-to-month,No,Fiber,Credit card,0
+C01385,13,706.64,Month-to-month,Yes,Fiber,EFT,0
+C01386,27,635.72,Month-to-month,No,Fiber,Credit card,0
+C01387,26,785.54,Month-to-month,No,Fiber,EFT,1
+C01388,37,838.89,Month-to-month,No,None,Debit order,0
+C01389,35,433.07,Month-to-month,Yes,DSL,Debit order,0
+C01390,15,787.62,Month-to-month,No,Fiber,EFT,1
+C01391,17,837.46,Month-to-month,Yes,Fiber,Debit order,0
+C01392,14,296.56,Month-to-month,No,DSL,Debit order,0
+C01393,4,755.31,Two year,Yes,DSL,EFT,1
+C01394,47,845.03,Month-to-month,No,None,Credit card,0
+C01395,34,824.56,Month-to-month,Yes,Fiber,Debit order,1
+C01396,8,864.44,One year,Yes,DSL,Debit order,0
+C01397,24,661.04,Month-to-month,Yes,Fiber,Debit order,0
+C01398,49,532.82,Month-to-month,No,DSL,Debit order,0
+C01399,21,396.05,One year,No,Fiber,Debit order,0
+C01400,29,916.6,One year,No,DSL,EFT,0
+C01401,54,846.55,Two year,No,Fiber,Debit order,0
+C01402,49,930.33,Two year,No,DSL,EFT,0
+C01403,51,589.47,One year,Yes,Fiber,EFT,0
+C01404,28,864.69,One year,Yes,DSL,Debit order,0
+C01405,35,449.52,Month-to-month,No,Fiber,EFT,0
+C01406,61,563.49,Two year,No,DSL,Debit order,0
+C01407,63,742.68,Month-to-month,Yes,Fiber,Credit card,0
+C01408,5,839.38,Month-to-month,No,DSL,EFT,0
+C01409,61,1022.22,Month-to-month,No,DSL,EFT,0
+C01410,65,676.79,One year,No,Fiber,Debit order,0
+C01411,68,564.17,Month-to-month,Yes,Fiber,Debit order,0
+C01412,20,554.91,One year,No,Fiber,Debit order,0
+C01413,37,596.19,Month-to-month,No,Fiber,EFT,0
+C01414,4,1119.78,One year,No,DSL,Debit order,0
+C01415,8,856.24,Month-to-month,No,Fiber,Credit card,1
+C01416,41,920.26,One year,Yes,Fiber,Debit order,0
+C01417,15,676.98,Month-to-month,No,Fiber,Debit order,0
+C01418,17,719.7,Month-to-month,No,Fiber,Debit order,0
+C01419,22,845.87,Month-to-month,No,Fiber,Debit order,0
+C01420,34,628.96,Month-to-month,No,DSL,Credit card,0
+C01421,12,667.56,Month-to-month,No,Fiber,Debit order,1
+C01422,58,598.55,One year,Yes,None,Debit order,0
+C01423,49,639.45,Month-to-month,Yes,DSL,Credit card,1
+C01424,57,728.82,One year,No,Fiber,Debit order,0
+C01425,67,572.09,One year,No,DSL,EFT,0
+C01426,44,771.48,Month-to-month,No,DSL,Credit card,0
+C01427,27,771.22,Two year,No,DSL,Credit card,0
+C01428,71,687.74,One year,No,Fiber,Debit order,0
+C01429,41,571.06,One year,No,DSL,Debit order,0
+C01430,34,738.89,One year,No,Fiber,EFT,0
+C01431,30,629.12,One year,No,DSL,EFT,0
+C01432,3,728.39,Two year,Yes,Fiber,Debit order,0
+C01433,69,917.66,Month-to-month,No,Fiber,Debit order,0
+C01434,59,494.47,Month-to-month,No,DSL,Debit order,0
+C01435,51,1111.23,One year,No,Fiber,Credit card,0
+C01436,16,706.95,Month-to-month,No,Fiber,Debit order,0
+C01437,67,794.13,One year,Yes,DSL,EFT,0
+C01438,13,584.5,Month-to-month,No,Fiber,Debit order,0
+C01439,18,925.6,Month-to-month,Yes,Fiber,EFT,0
+C01440,6,697.39,Two year,Yes,Fiber,Debit order,0
+C01441,21,649.06,Month-to-month,No,None,Debit order,1
+C01442,24,616.41,Month-to-month,No,DSL,Debit order,1
+C01443,58,671.67,One year,No,DSL,Debit order,0
+C01444,24,795.3,One year,No,DSL,EFT,0
+C01445,69,751.11,Two year,Yes,DSL,Credit card,0
+C01446,22,712.83,Month-to-month,No,DSL,Debit order,1
+C01447,38,591.94,Two year,Yes,DSL,EFT,0
+C01448,43,581.55,One year,No,DSL,Debit order,0
+C01449,60,637.04,One year,No,DSL,Debit order,0
+C01450,55,802.85,Month-to-month,No,Fiber,Debit order,0
+C01451,63,839.21,Month-to-month,No,Fiber,Credit card,0
+C01452,68,863.47,Month-to-month,No,Fiber,EFT,0
+C01453,9,719.74,Month-to-month,No,DSL,Debit order,0
+C01454,7,789.04,Month-to-month,No,None,Credit card,1
+C01455,33,689.68,Month-to-month,No,DSL,Debit order,0
+C01456,11,406.39,One year,No,DSL,Debit order,0
+C01457,36,681.13,Month-to-month,Yes,DSL,Credit card,0
+C01458,43,652.44,Month-to-month,No,None,Credit card,1
+C01459,20,532.97,Month-to-month,No,DSL,Credit card,0
+C01460,8,617.87,Two year,Yes,Fiber,Debit order,1
+C01461,70,744.32,One year,No,Fiber,Debit order,0
+C01462,27,516.02,Month-to-month,Yes,Fiber,Credit card,0
+C01463,61,592.06,Two year,No,Fiber,Credit card,0
+C01464,45,998.62,One year,No,Fiber,Debit order,0
+C01465,48,431.51,Month-to-month,Yes,Fiber,Debit order,0
+C01466,57,687.03,One year,No,Fiber,EFT,0
+C01467,20,510.06,Two year,No,Fiber,Debit order,0
+C01468,16,584.71,Month-to-month,No,None,Credit card,0
+C01469,72,684.41,One year,No,Fiber,Credit card,1
+C01470,49,542.24,Month-to-month,No,DSL,Debit order,0
+C01471,22,823.31,One year,No,Fiber,Credit card,0
+C01472,47,963.21,One year,No,None,Credit card,0
+C01473,29,871.5,Two year,No,DSL,Credit card,0
+C01474,62,904.43,One year,Yes,None,EFT,0
+C01475,37,471.65,Month-to-month,Yes,DSL,Credit card,0
+C01476,23,676.25,Month-to-month,No,DSL,Debit order,1
+C01477,50,804.14,Two year,No,Fiber,Debit order,0
+C01478,55,876.81,Month-to-month,No,Fiber,Credit card,0
+C01479,27,1035.6,Month-to-month,No,DSL,Debit order,0
+C01480,55,912.43,One year,Yes,Fiber,EFT,0
+C01481,17,881.37,Month-to-month,No,Fiber,Debit order,0
+C01482,18,1194.05,Month-to-month,No,DSL,Debit order,1
+C01483,60,737.34,Month-to-month,Yes,Fiber,Debit order,0
+C01484,45,667.97,Month-to-month,No,DSL,EFT,0
+C01485,3,751.92,One year,No,Fiber,Credit card,1
+C01486,49,555.29,Month-to-month,No,Fiber,Credit card,0
+C01487,23,732.17,Month-to-month,Yes,Fiber,Debit order,0
+C01488,20,409.17,One year,No,Fiber,EFT,1
+C01489,31,624.69,Month-to-month,No,DSL,EFT,0
+C01490,33,699.24,One year,No,DSL,Debit order,0
+C01491,65,890.93,Month-to-month,Yes,Fiber,EFT,0
+C01492,32,920.0,Month-to-month,Yes,Fiber,EFT,0
+C01493,22,546.55,Month-to-month,No,DSL,Debit order,0
+C01494,56,1093.69,One year,Yes,Fiber,Debit order,0
+C01495,40,746.71,Two year,Yes,Fiber,Credit card,0
+C01496,1,763.21,Month-to-month,No,Fiber,Debit order,0
+C01497,46,428.82,Month-to-month,No,DSL,EFT,0
+C01498,37,608.39,Month-to-month,No,Fiber,Credit card,0
+C01499,42,908.97,Month-to-month,Yes,Fiber,Debit order,0
+C01500,14,750.56,Month-to-month,No,None,Debit order,0
+C01501,35,739.41,Two year,No,None,Credit card,0
+C01502,47,760.89,One year,Yes,DSL,Debit order,0
+C01503,49,460.22,Month-to-month,Yes,DSL,Debit order,0
+C01504,49,702.61,Month-to-month,Yes,None,Debit order,0
+C01505,72,973.5,Month-to-month,No,DSL,EFT,0
+C01506,37,915.61,Month-to-month,Yes,DSL,Debit order,0
+C01507,31,697.46,One year,No,Fiber,Debit order,0
+C01508,40,1001.46,Two year,Yes,Fiber,EFT,0
+C01509,24,493.36,Month-to-month,Yes,DSL,Debit order,0
+C01510,23,545.09,Month-to-month,No,DSL,Credit card,0
+C01511,50,1055.45,Month-to-month,No,Fiber,Debit order,1
+C01512,23,824.04,Month-to-month,No,DSL,EFT,0
+C01513,54,668.0,Two year,No,DSL,Debit order,0
+C01514,54,710.04,One year,Yes,Fiber,Debit order,0
+C01515,69,574.81,One year,No,DSL,Debit order,0
+C01516,10,769.79,Two year,Yes,Fiber,EFT,1
+C01517,27,755.53,Month-to-month,No,DSL,EFT,0
+C01518,56,723.58,One year,No,None,Debit order,0
+C01519,31,511.24,One year,No,DSL,Debit order,0
+C01520,48,767.66,Month-to-month,Yes,DSL,Debit order,0
+C01521,53,624.69,Month-to-month,No,DSL,Debit order,0
+C01522,64,542.52,One year,No,Fiber,Debit order,0
+C01523,17,948.01,Two year,No,DSL,EFT,0
+C01524,19,1110.55,Month-to-month,Yes,Fiber,Debit order,0
+C01525,34,1069.67,Two year,No,DSL,EFT,0
+C01526,37,837.02,Two year,Yes,DSL,Debit order,0
+C01527,66,672.19,Two year,No,DSL,EFT,0
+C01528,3,707.34,Month-to-month,No,Fiber,Debit order,0
+C01529,18,793.01,Month-to-month,No,Fiber,Debit order,0
+C01530,66,644.36,One year,No,Fiber,EFT,0
+C01531,45,957.39,Month-to-month,No,Fiber,Debit order,0
+C01532,49,353.57,Month-to-month,Yes,Fiber,EFT,0
+C01533,18,666.77,One year,Yes,Fiber,EFT,0
+C01534,45,864.19,Month-to-month,No,None,EFT,0
+C01535,27,567.87,Month-to-month,No,Fiber,EFT,0
+C01536,53,676.77,Two year,No,DSL,Debit order,0
+C01537,7,826.86,Month-to-month,Yes,Fiber,Debit order,0
+C01538,21,993.29,Two year,No,DSL,Credit card,0
+C01539,47,487.09,Month-to-month,No,DSL,Debit order,0
+C01540,44,473.75,Month-to-month,No,None,Credit card,0
+C01541,61,549.71,Month-to-month,No,DSL,Debit order,0
+C01542,58,443.24,Month-to-month,No,DSL,Credit card,0
+C01543,2,456.05,Month-to-month,Yes,Fiber,Debit order,0
+C01544,7,544.92,Two year,No,DSL,Debit order,1
+C01545,26,942.03,Two year,No,Fiber,EFT,0
+C01546,70,663.83,Month-to-month,No,DSL,EFT,0
+C01547,35,725.65,Month-to-month,Yes,DSL,Debit order,0
+C01548,65,548.02,One year,No,Fiber,Debit order,1
+C01549,5,834.04,Month-to-month,Yes,DSL,Credit card,0
+C01550,70,1057.64,Month-to-month,No,Fiber,Debit order,0
+C01551,5,560.23,Month-to-month,No,DSL,Credit card,0
+C01552,59,1030.45,Month-to-month,Yes,DSL,EFT,0
+C01553,64,785.6,Month-to-month,No,DSL,Debit order,0
+C01554,22,723.04,Month-to-month,No,DSL,Debit order,1
+C01555,22,792.02,One year,No,Fiber,Debit order,1
+C01556,42,790.29,Month-to-month,No,DSL,Debit order,0
+C01557,52,1054.28,Month-to-month,No,DSL,Credit card,0
+C01558,9,813.64,Month-to-month,Yes,Fiber,Debit order,1
+C01559,18,817.4,Month-to-month,No,Fiber,EFT,1
+C01560,55,644.13,Two year,No,Fiber,Credit card,0
+C01561,59,871.03,One year,No,DSL,Debit order,0
+C01562,12,547.77,Two year,No,DSL,Credit card,1
+C01563,65,739.62,Month-to-month,No,Fiber,Debit order,0
+C01564,63,1238.99,Month-to-month,Yes,Fiber,Debit order,0
+C01565,63,269.25,Month-to-month,No,Fiber,Credit card,0
+C01566,18,761.97,Month-to-month,No,Fiber,Debit order,0
+C01567,49,768.89,One year,No,Fiber,Debit order,0
+C01568,12,678.94,Month-to-month,Yes,DSL,Debit order,0
+C01569,15,683.19,Month-to-month,Yes,Fiber,Debit order,1
+C01570,6,736.45,Month-to-month,No,DSL,Credit card,0
+C01571,36,674.64,Month-to-month,Yes,Fiber,EFT,1
+C01572,52,759.96,Month-to-month,No,DSL,Credit card,0
+C01573,15,632.23,One year,Yes,Fiber,EFT,0
+C01574,14,1084.03,Two year,No,Fiber,Credit card,0
+C01575,20,674.64,Month-to-month,Yes,Fiber,Debit order,1
+C01576,15,822.53,Month-to-month,Yes,DSL,EFT,0
+C01577,60,599.57,Month-to-month,No,None,Debit order,0
+C01578,13,887.97,Month-to-month,Yes,Fiber,Debit order,1
+C01579,21,852.02,One year,Yes,DSL,EFT,0
+C01580,23,795.47,Month-to-month,No,DSL,Credit card,1
+C01581,15,535.08,Two year,Yes,Fiber,EFT,0
+C01582,68,584.57,Two year,Yes,DSL,Debit order,0
+C01583,16,1023.51,Month-to-month,No,Fiber,EFT,1
+C01584,36,582.57,Two year,No,DSL,Debit order,0
+C01585,41,835.36,One year,No,DSL,Debit order,0
+C01586,19,549.96,Two year,No,Fiber,EFT,1
+C01587,34,901.51,Month-to-month,No,DSL,Debit order,0
+C01588,13,596.45,Two year,No,Fiber,Credit card,0
+C01589,35,546.63,Month-to-month,No,DSL,EFT,0
+C01590,2,591.78,Month-to-month,No,DSL,EFT,0
+C01591,32,620.32,Two year,No,DSL,Debit order,0
+C01592,27,792.84,Month-to-month,No,Fiber,Debit order,0
+C01593,26,732.49,Month-to-month,No,Fiber,EFT,0
+C01594,8,522.87,Month-to-month,No,DSL,Credit card,1
+C01595,72,714.97,Month-to-month,Yes,DSL,Credit card,0
+C01596,2,514.17,Month-to-month,No,DSL,Debit order,1
+C01597,11,835.84,Month-to-month,No,Fiber,Debit order,1
+C01598,8,868.84,Month-to-month,No,DSL,EFT,0
+C01599,71,715.69,One year,No,DSL,Credit card,0
+C01600,23,768.9,Month-to-month,Yes,DSL,EFT,0
+C01601,32,1035.38,Two year,Yes,Fiber,Debit order,0
+C01602,55,691.63,Month-to-month,No,Fiber,Debit order,0
+C01603,4,550.03,One year,No,Fiber,Credit card,0
+C01604,5,824.26,One year,No,DSL,EFT,0
+C01605,14,516.12,Two year,Yes,DSL,Debit order,0
+C01606,49,682.1,Month-to-month,Yes,DSL,Debit order,1
+C01607,71,612.18,Month-to-month,Yes,Fiber,Credit card,0
+C01608,45,593.67,Two year,Yes,DSL,Debit order,0
+C01609,63,674.98,One year,No,DSL,Debit order,0
+C01610,64,881.98,Month-to-month,No,Fiber,Credit card,0
+C01611,20,919.02,One year,No,Fiber,Debit order,0
+C01612,14,886.72,One year,No,Fiber,Credit card,0
+C01613,12,780.54,Month-to-month,Yes,DSL,Debit order,0
+C01614,58,673.61,One year,No,Fiber,Credit card,0
+C01615,49,295.59,Two year,No,Fiber,EFT,0
+C01616,63,786.18,Month-to-month,No,DSL,EFT,0
+C01617,37,309.72,Month-to-month,No,DSL,Credit card,0
+C01618,71,373.79,Month-to-month,Yes,DSL,Credit card,0
+C01619,65,690.9,One year,Yes,DSL,Debit order,0
+C01620,59,767.62,Month-to-month,No,DSL,Debit order,0
+C01621,58,638.8,One year,No,DSL,Debit order,0
+C01622,9,996.4,Month-to-month,No,DSL,Credit card,0
+C01623,54,803.18,Two year,Yes,Fiber,Debit order,0
+C01624,69,675.11,One year,No,DSL,Debit order,0
+C01625,22,969.54,One year,Yes,DSL,Credit card,0
+C01626,59,1001.72,Month-to-month,No,DSL,Credit card,0
+C01627,26,812.26,Month-to-month,Yes,Fiber,Debit order,0
+C01628,16,580.45,One year,No,Fiber,Debit order,0
+C01629,53,620.95,Month-to-month,Yes,Fiber,Credit card,0
+C01630,12,459.59,Month-to-month,Yes,Fiber,EFT,0
+C01631,35,712.36,Month-to-month,Yes,Fiber,Credit card,0
+C01632,68,530.99,Month-to-month,No,Fiber,Debit order,1
+C01633,12,660.77,One year,No,Fiber,EFT,0
+C01634,12,766.91,Month-to-month,No,DSL,Debit order,0
+C01635,68,362.93,Month-to-month,No,DSL,Debit order,0
+C01636,56,492.53,Month-to-month,No,DSL,Debit order,0
+C01637,34,628.77,Month-to-month,No,Fiber,Debit order,0
+C01638,30,710.55,Month-to-month,Yes,Fiber,Credit card,0
+C01639,70,631.1,Two year,No,Fiber,Credit card,0
+C01640,53,671.31,Two year,No,DSL,EFT,0
+C01641,66,592.89,Two year,No,Fiber,Credit card,0
+C01642,7,459.11,Month-to-month,Yes,DSL,Debit order,0
+C01643,39,623.74,Month-to-month,Yes,Fiber,Credit card,0
+C01644,53,681.63,Month-to-month,No,Fiber,Credit card,0
+C01645,3,664.13,One year,No,Fiber,Credit card,0
+C01646,37,740.12,One year,No,Fiber,Debit order,0
+C01647,5,795.4,One year,No,Fiber,Credit card,0
+C01648,65,842.71,Month-to-month,No,DSL,Credit card,0
+C01649,50,605.96,Month-to-month,No,Fiber,Debit order,0
+C01650,14,436.36,Two year,Yes,Fiber,EFT,0
+C01651,38,948.89,Month-to-month,Yes,Fiber,Debit order,1
+C01652,8,789.38,One year,No,None,Debit order,0
+C01653,58,548.16,One year,Yes,DSL,Credit card,0
+C01654,15,769.99,Month-to-month,Yes,DSL,EFT,0
+C01655,44,912.24,Two year,No,DSL,Credit card,0
+C01656,6,1031.25,Two year,Yes,DSL,Credit card,0
+C01657,12,765.11,One year,No,Fiber,EFT,0
+C01658,71,910.74,Month-to-month,No,DSL,Debit order,0
+C01659,28,502.27,Month-to-month,No,DSL,Debit order,0
+C01660,9,713.54,One year,No,Fiber,Credit card,1
+C01661,51,659.7,Month-to-month,Yes,Fiber,Debit order,0
+C01662,15,781.66,Month-to-month,No,DSL,Credit card,1
+C01663,43,1010.01,Month-to-month,No,Fiber,EFT,1
+C01664,59,764.98,Month-to-month,Yes,Fiber,Debit order,0
+C01665,50,551.22,One year,No,Fiber,Debit order,0
+C01666,18,492.58,Month-to-month,Yes,Fiber,Debit order,0
+C01667,18,1016.24,Month-to-month,No,DSL,Credit card,1
+C01668,17,812.48,Month-to-month,No,Fiber,Credit card,0
+C01669,46,800.65,Month-to-month,No,DSL,EFT,0
+C01670,49,658.13,Month-to-month,No,Fiber,Credit card,0
+C01671,38,768.22,Month-to-month,No,Fiber,EFT,0
+C01672,29,542.35,Month-to-month,Yes,Fiber,Debit order,0
+C01673,5,789.7,Month-to-month,No,DSL,Debit order,0
+C01674,61,508.52,One year,No,Fiber,Debit order,0
+C01675,48,655.33,Month-to-month,No,DSL,EFT,0
+C01676,46,604.28,One year,No,DSL,Debit order,0
+C01677,8,250.0,Month-to-month,Yes,DSL,Debit order,1
+C01678,21,657.58,One year,Yes,Fiber,Debit order,0
+C01679,22,558.2,Month-to-month,No,Fiber,Debit order,0
+C01680,44,682.13,Month-to-month,Yes,DSL,Credit card,0
+C01681,57,720.31,One year,No,DSL,EFT,0
+C01682,63,1038.23,One year,No,DSL,Debit order,0
+C01683,38,774.85,Month-to-month,No,DSL,Credit card,0
+C01684,27,780.14,One year,Yes,Fiber,Debit order,0
+C01685,30,809.21,One year,Yes,DSL,Debit order,0
+C01686,54,876.93,Month-to-month,No,DSL,Debit order,0
+C01687,23,801.77,Two year,No,None,Credit card,0
+C01688,30,770.71,Month-to-month,No,DSL,Credit card,0
+C01689,57,848.02,One year,No,Fiber,Credit card,0
+C01690,40,283.21,Two year,No,DSL,EFT,0
+C01691,34,1096.03,Two year,No,DSL,Debit order,0
+C01692,53,1006.15,One year,No,Fiber,Credit card,0
+C01693,21,759.08,One year,No,DSL,Credit card,0
+C01694,5,465.66,Month-to-month,No,Fiber,Debit order,1
+C01695,57,937.86,Month-to-month,No,Fiber,Debit order,0
+C01696,33,595.1,Two year,No,DSL,Debit order,0
+C01697,24,816.09,Month-to-month,No,Fiber,Debit order,0
+C01698,7,489.08,One year,No,DSL,Debit order,1
+C01699,67,1120.75,Month-to-month,No,Fiber,Debit order,0
+C01700,53,460.4,Month-to-month,Yes,DSL,EFT,0
+C01701,20,732.42,Month-to-month,No,DSL,EFT,0
+C01702,44,338.01,Month-to-month,No,DSL,Credit card,0
+C01703,34,712.58,Month-to-month,No,Fiber,Credit card,0
+C01704,24,643.45,Month-to-month,No,None,EFT,0
+C01705,23,924.69,Two year,No,Fiber,Debit order,1
+C01706,6,643.43,One year,No,DSL,Credit card,0
+C01707,71,924.95,One year,No,Fiber,Credit card,0
+C01708,67,535.66,Month-to-month,Yes,Fiber,EFT,0
+C01709,63,669.25,Month-to-month,No,DSL,EFT,0
+C01710,23,672.86,One year,No,Fiber,Debit order,0
+C01711,72,809.21,Month-to-month,No,Fiber,Credit card,0
+C01712,20,786.31,Month-to-month,Yes,Fiber,Debit order,0
+C01713,60,850.0,Two year,Yes,Fiber,Debit order,0
+C01714,8,768.03,Month-to-month,No,None,Credit card,0
+C01715,23,839.04,Two year,Yes,DSL,Credit card,0
+C01716,42,558.38,Month-to-month,Yes,Fiber,Debit order,0
+C01717,70,789.98,Month-to-month,No,DSL,Debit order,0
+C01718,20,1009.48,Month-to-month,No,DSL,Credit card,0
+C01719,32,417.6,Two year,No,DSL,Debit order,0
+C01720,61,808.02,One year,No,DSL,EFT,0
+C01721,35,841.82,One year,No,Fiber,Credit card,0
+C01722,50,983.01,Month-to-month,No,Fiber,Credit card,0
+C01723,31,850.69,Two year,No,DSL,Debit order,0
+C01724,1,738.06,One year,Yes,DSL,EFT,1
+C01725,21,797.41,One year,No,DSL,EFT,0
+C01726,41,587.69,One year,No,Fiber,Debit order,0
+C01727,2,650.17,One year,Yes,DSL,Credit card,0
+C01728,17,479.57,One year,No,Fiber,EFT,0
+C01729,69,987.67,Month-to-month,No,DSL,Debit order,0
+C01730,2,801.03,Two year,No,Fiber,Credit card,0
+C01731,18,555.1,Month-to-month,No,DSL,EFT,0
+C01732,45,768.84,Two year,Yes,None,Credit card,0
+C01733,41,928.68,Month-to-month,No,Fiber,EFT,0
+C01734,15,898.7,Month-to-month,No,DSL,Debit order,0
+C01735,5,553.03,Month-to-month,Yes,DSL,EFT,0
+C01736,65,250.0,Month-to-month,Yes,Fiber,EFT,0
+C01737,40,791.17,Month-to-month,Yes,Fiber,Debit order,0
+C01738,42,560.36,One year,No,DSL,Debit order,0
+C01739,5,832.02,One year,Yes,Fiber,Credit card,0
+C01740,16,891.05,Month-to-month,Yes,Fiber,EFT,0
+C01741,6,920.45,Month-to-month,No,DSL,Debit order,1
+C01742,71,1034.05,One year,No,DSL,Debit order,1
+C01743,56,942.54,Two year,No,DSL,EFT,0
+C01744,40,1034.92,Month-to-month,No,DSL,Debit order,0
+C01745,50,968.23,Two year,Yes,DSL,Credit card,0
+C01746,12,983.92,Month-to-month,No,DSL,Credit card,1
+C01747,72,712.64,One year,No,Fiber,EFT,0
+C01748,38,487.92,One year,Yes,Fiber,Debit order,0
+C01749,38,1166.81,Month-to-month,No,DSL,EFT,0
+C01750,70,731.33,Month-to-month,No,None,Credit card,0
+C01751,7,941.17,One year,Yes,Fiber,EFT,0
+C01752,31,620.95,Month-to-month,Yes,None,Debit order,0
+C01753,7,893.51,Month-to-month,Yes,DSL,Credit card,0
+C01754,31,279.91,Month-to-month,No,Fiber,EFT,0
+C01755,20,646.12,One year,Yes,Fiber,EFT,0
+C01756,34,702.29,Month-to-month,No,Fiber,Debit order,1
+C01757,51,803.27,Month-to-month,Yes,DSL,Credit card,0
+C01758,21,912.96,Two year,No,Fiber,Debit order,1
+C01759,4,523.05,One year,No,Fiber,Debit order,1
+C01760,12,838.79,Month-to-month,Yes,Fiber,Credit card,0
+C01761,52,940.8,Month-to-month,Yes,None,EFT,0
+C01762,42,1142.26,Month-to-month,No,Fiber,Credit card,0
+C01763,71,847.19,Month-to-month,Yes,Fiber,Debit order,0
+C01764,65,637.29,Month-to-month,Yes,Fiber,Debit order,0
+C01765,12,491.08,Month-to-month,No,Fiber,Debit order,1
+C01766,53,1049.26,Month-to-month,No,Fiber,Debit order,0
+C01767,7,852.72,One year,No,DSL,EFT,0
+C01768,7,716.04,Month-to-month,No,DSL,Debit order,0
+C01769,58,428.43,Month-to-month,No,Fiber,Debit order,0
+C01770,29,552.39,Two year,No,DSL,Credit card,0
+C01771,72,833.64,Month-to-month,Yes,Fiber,Debit order,0
+C01772,1,783.69,One year,No,DSL,Debit order,0
+C01773,37,369.66,Month-to-month,No,Fiber,Credit card,0
+C01774,23,833.87,Month-to-month,No,DSL,Debit order,0
+C01775,71,437.68,Month-to-month,No,None,Credit card,0
+C01776,49,963.72,Month-to-month,No,DSL,Credit card,0
+C01777,56,757.54,One year,No,Fiber,Credit card,0
+C01778,21,636.58,Month-to-month,No,DSL,Debit order,0
+C01779,65,898.23,Month-to-month,Yes,DSL,Debit order,0
+C01780,61,783.63,Month-to-month,Yes,DSL,Credit card,0
+C01781,57,958.49,Month-to-month,No,Fiber,Debit order,0
+C01782,35,734.49,Month-to-month,No,Fiber,Debit order,1
+C01783,67,744.99,Month-to-month,No,Fiber,Debit order,0
+C01784,49,668.65,Month-to-month,No,Fiber,Debit order,1
+C01785,5,767.33,One year,No,Fiber,Debit order,0
+C01786,64,1025.63,One year,No,DSL,EFT,0
+C01787,2,629.5,Month-to-month,Yes,Fiber,Credit card,1
+C01788,50,836.63,Two year,No,Fiber,Credit card,0
+C01789,18,561.52,Month-to-month,No,Fiber,Debit order,1
+C01790,65,347.99,Month-to-month,Yes,None,Debit order,0
+C01791,53,757.34,One year,No,DSL,EFT,0
+C01792,59,786.67,One year,Yes,DSL,Credit card,0
+C01793,51,700.19,Month-to-month,Yes,DSL,EFT,0
+C01794,41,450.72,Two year,No,DSL,Debit order,0
+C01795,63,774.77,Two year,No,Fiber,Debit order,0
+C01796,22,767.94,Month-to-month,No,DSL,Credit card,0
+C01797,39,560.02,Month-to-month,Yes,Fiber,Debit order,0
+C01798,22,476.37,One year,No,DSL,Debit order,0
+C01799,9,674.57,Two year,No,Fiber,Debit order,0
+C01800,64,837.53,One year,No,None,Debit order,0
