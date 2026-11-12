@@ -1,0 +1,229 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Ankonisaho Seabo | Portfolio</title>
+<style>
+* { box-sizing: border-box; }
+html { scroll-behavior: smooth; }
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #0b1120;
+  color: #f1f5f9;
+  line-height: 1.7;
+}
+nav {
+  padding: 20px 8%;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 15px;
+  background: #111b30;
+}
+nav a { color: #cbd5e1; text-decoration: none; margin-left: 15px; }
+header {
+  padding: 90px 8%;
+  background: linear-gradient(135deg,#111b30,#243c65);
+}
+header h1 { font-size: clamp(2.5rem,6vw,4.5rem); margin: 10px 0; }
+header p { max-width: 650px; color: #cbd5e1; }
+section { padding: 55px 8%; }
+h2 { color: #93b4ff; font-size: 2rem; }
+h3 { color: #dbeafe; }
+.muted { color: #bdc9dc; }
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit,minmax(240px,1fr));
+  gap: 20px;
+}
+.card {
+  background: #131e33;
+  border: 1px solid #293b5b;
+  border-radius: 14px;
+  padding: 24px;
+}
+.tag {
+  display: inline-block;
+  background: #243b62;
+  color: #dbeafe;
+  padding: 5px 12px;
+  border-radius: 20px;
+  margin: 4px;
+  font-size: .9rem;
+}
+.button {
+  display: inline-block;
+  background: #93b4ff;
+  color: #101a2c;
+  padding: 12px 20px;
+  border-radius: 8px;
+  text-decoration: none;
+  font-weight: bold;
+}
+a { color: #a9c4ff; }
+footer {
+  text-align: center;
+  padding: 30px;
+  background: #111b30;
+  color: #bdc9dc;
+}
+</style>
+</head>
+<body>
+
+<nav>
+<strong>Ankonisaho Seabo</strong>
+<div>
+<a href="#about">About</a>
+<a href="#skills">Skills</a>
+<a href="#projects">Projects</a>
+<a href="#certifications">Certifications</a>
+</div>
+</nav>
+
+<header>
+<p>WELCOME TO MY PORTFOLIO</p>
+<h1>Ankonisaho Seabo</h1>
+<h2>BSc IT Student | Data Science Specialisation</h2>
+<p>
+Aspiring Data Science and IT professional passionate
+about technology, analytics, programming and
+solving real-world problems through data.
+</p>
+<a class="button" href="#projects">Explore My Work</a>
+</header>
+
+<section id="about">
+<h2>About Me</h2>
+<div class="card">
+<p class="muted">
+I am a Bachelor of Science in Information Technology
+(BSc IT) student specialising in Data Science, with
+a strong interest in data analytics, machine learning,
+technology and software development.
+</p>
+<p class="muted">
+I am passionate about using data and technology to
+solve real-world problems, identify patterns and
+transform information into meaningful insights.
+</p>
+<p class="muted">
+I have earned the Google IT Support Professional
+Certificate through Coursera, developing foundational
+knowledge in IT support and troubleshooting.
+I continue to strengthen my technical abilities
+through academic learning and practical projects.
+</p>
+<p class="muted">
+My goal is to gain industry experience, contribute
+to innovative projects and grow into a skilled
+Data Science and IT professional.
+</p>
+</div>
+</section>
+
+<section>
+<h2>Education</h2>
+<div class="card">
+<h3>Bachelor of Science in Information Technology</h3>
+<p class="muted">Specialisation: Data Science</p>
+<p class="muted">Developing knowledge in computing,
+programming, data analysis and technology.</p>
+</div>
+</section>
+
+<section id="skills">
+<h2>Technical Skills & Interests</h2>
+<div class="card">
+<span class="tag">Python</span>
+<span class="tag">SQL</span>
+<span class="tag">Data Analytics</span>
+<span class="tag">Machine Learning</span>
+<span class="tag">Data Visualisation</span>
+<span class="tag">Pandas</span>
+<span class="tag">NumPy</span>
+<span class="tag">Scikit-learn</span>
+<span class="tag">IT Support</span>
+<span class="tag">Troubleshooting</span>
+<p class="muted">
+Skills and interests demonstrated through coursework
+and portfolio projects.
+</p>
+</div>
+</section>
+
+<section id="projects">
+<h2>Featured Projects</h2>
+<div class="grid">
+
+<div class="card">
+<h3>01. Retail Sales Analysis</h3>
+<p class="muted">
+Exploring retail sales performance, revenue,
+product categories and regional trends using
+data analysis and SQL.
+</p>
+<p><strong>Tools:</strong> Python, SQL, Pandas</p>
+<a href="project_1_retail/">Explore project files →</a>
+</div>
+
+<div class="card">
+<h3>02. Customer Churn Prediction</h3>
+<p class="muted">
+A machine learning project using a Random Forest
+model to predict customer churn and evaluate
+classification performance.
+</p>
+<p><strong>Tools:</strong> Python, Scikit-learn</p>
+<a href="project_2_churn/">Explore project files →</a>
+</div>
+
+<div class="card">
+<h3>03. Energy Demand Analysis</h3>
+<p class="muted">
+Analysing hourly energy demand, monthly trends
+and the relationship between temperature
+and energy consumption.
+</p>
+<p><strong>Tools:</strong> Python, Data Analysis</p>
+<a href="project_3_energy/">Explore project files →</a>
+</div>
+
+</div>
+</section>
+
+<section id="certifications">
+<h2>Certifications</h2>
+<div class="card">
+<h3>Google IT Support Professional Certificate</h3>
+<p class="muted">Google | Coursera</p>
+<p class="muted">
+Foundational learning in IT support, troubleshooting
+and technical support concepts.
+</p>
+<p>Certificate verification link can be added here later.</p>
+</div>
+</section>
+
+<section>
+<h2>Career Goals</h2>
+<div class="card">
+<p class="muted">
+I am looking forward to opportunities in Data Science,
+Data Analytics, IT and Software Development where
+I can apply my knowledge, develop my skills and
+contribute to meaningful projects.
+</p>
+</div>
+</section>
+
+<footer>
+<p>© 2026 Ankonisaho Seabo</p>
+<p>Data Science | Information Technology | Analytics</p>
+</footer>
+
+</body>
+</html>
